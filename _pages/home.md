@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Tangram Nuclear Theory Collaboration"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Tangram Nuclear Theory Collaboration"
 sitemap: false
 permalink: /
 ---
