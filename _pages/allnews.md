@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Tangram Nuclear Theory Collaboration"
 sitemap: false
 permalink: /allnews.html
 ---
