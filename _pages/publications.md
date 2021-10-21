@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Tangram Nuclear Theory Collaboration - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Tangram Nuclear Theory Collaboration -- Publications."
 sitemap: false
 permalink: /publications/
 ---

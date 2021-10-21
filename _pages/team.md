@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "Tangram Nuclear Theory Collaboration - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Tangram Nuclear Theory Collaboration: Team members"
 sitemap: false
 permalink: /team/
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Tangram Nuclear Theory Collaboration - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Tangram Nuclear Theory Collaboration -- Pictures"
 permalink: /pictures/
 ---
 

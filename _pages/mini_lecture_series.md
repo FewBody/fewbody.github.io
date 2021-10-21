@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - AOA"
+title: "Tangram Nuclear Theory Collaboration - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

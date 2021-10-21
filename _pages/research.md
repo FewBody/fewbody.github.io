@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Research"
+title: "Tangram Nuclear Theory Collaboration - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Tangram Nuclear Theory Collaboration -- Research"
 sitemap: false
 permalink: /research/
 ---
