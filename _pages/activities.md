@@ -8,7 +8,7 @@ permalink: /activities
 
 # Seminars
 
-* 2021.6.21, Jacobi no-core Shell Model (J-NCSM), Hoai Le, Forschungszentrum Jülich, slides({{ site.baseurl }}/downloads/Jacobi_NCSM.pdf), video record
+* 2021.6.21, Jacobi no-core Shell Model (J-NCSM), Hoai Le, Forschungszentrum Jülich, [slides]({{ site.baseurl }}/downloads/Jacobi_NCSM.pdf), video record
 
 <!-- [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
 [Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
