@@ -18,9 +18,9 @@ permalink: /activities
 * 2021.09.23, (Un)utility of Faddeev-Yakubovski equations, Rimantas LAZAUSKAS, CNRS, IPHC, Strasbourg
 [slides]({{ site.baseurl }}/downloads/Lazauskas_shanghai.ppsx), [video record](https://youtu.be/RGuC8tYmW1E)
 
-* 2021.09.30 理论研究弹性碰撞的约束变分方法, 张俊义, 中国科学院精密测量科学与技术创新研究院,
+* 2021.09.30 理论研究弹性碰撞的约束变分方法, 张俊义, 中国科学院精密测量科学与技术创新研究院, [video record](https://youtu.be/1nB4IsiGsig)
 
-* 2021.10.21 In-medium similarity renormalization group with resonance and continuum, Baishan Hu(胡柏山), TRIUMF
+* 2021.10.21 In-medium similarity renormalization group with resonance and continuum, Baishan Hu(胡柏山), TRIUMF, [video record](https://youtu.be/Fxm2RoGiU60)
 
 
 

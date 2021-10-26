@@ -99,7 +99,7 @@ The seminar forum is to organize online scientific talks focused on (but not lim
 We are grateful for funding from [Tongji University](https://en.tongji.edu.cn/index.htm) and [NSFC](http://www.nsfc.gov.cn).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ccnu.png" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tongji.png" style="width: 120px">
 </figure>
