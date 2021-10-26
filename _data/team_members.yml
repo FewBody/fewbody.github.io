@@ -1,14 +1,12 @@
-- name: Chen Ji
-  photo: Milan1.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
+- name: Ji Chen
+  photo: jichen.jpg
+  info: Associate Professor at Central China Normal University, started Sep 2017
+  email: jichen@ccnu.edu.cn
+  number_educ: 3
+  education1: 2006.9-2012.8 PhD with Daniel Phillips, Ohio University
+  education2: 2012.9-2015.8  Postdoc with Sonia Bacca, TRIUMF
+  education3: 2015.9-2017.8  Postdoc with Francesco Pederiva, ECT*/INFN-TIFPA
+  
 - name: Dong Bai
   photo: dbai.jpg
   info: Postdoc at Tongji University, started June 2019
@@ -16,7 +14,7 @@
   number_educ: 2
   education1: 2012.9-2017.7 PhD with Yue-Liang Wu, Institute of Theoretical Physics, Chinese Academy of Sciences
   education2: 2017.5-2019.5  Postdoc with Zhongzhou Ren, Nanjing University
-  
+
 - name: Jin Lei
   photo: jinlei.jpeg
   info: Research Fellow at Tongji University, started Nov 2020
