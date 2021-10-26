@@ -100,6 +100,6 @@ We are grateful for funding from [Tongji University](https://en.tongji.edu.cn/in
 
 <figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ccnu.png" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tongji.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tongji.png" style="width: 210px">
 </figure>
