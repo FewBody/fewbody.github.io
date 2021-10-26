@@ -38,7 +38,7 @@ The Tangram Nuclear Theory Collaboration (Tanthco) was initiated by nuclear theo
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CorrelationTable.jpeg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/He6.jpeg" alt="Slide 5" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
