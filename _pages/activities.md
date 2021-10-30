@@ -10,7 +10,7 @@ permalink: /activities
 
 * 2021.06.21, Jacobi no-core Shell Model (J-NCSM), Hoai Le, Forschungszentrum Jülich, [slides]({{ site.baseurl }}/downloads/Jacobi_NCSM.pdf)
 
-* 2021.09.02, Ab initio nuclear scattering and reaction calculation, Xilin Zhang, MSU, [video record](https://youtu.be/gsK_cTyjGus)
+* 2021.09.02, Ab initio nuclear scattering and reaction calculation, Xilin Zhang, MSU, [slides]({{ site.baseurl }}/downloads/Xilin_Zhang_seminar_JinLei_group_online.pptx),[video record](https://youtu.be/gsK_cTyjGus)
 
 * 2021.09.16, Improved Uncertainty Estimates with R-Matrix Theory, Daniel Odell, Postdoc, Ohio University,
 [video record](https://youtu.be/kbjwRTWhrm4)
