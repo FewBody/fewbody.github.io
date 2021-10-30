@@ -8,16 +8,16 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
+- name: Yazhou Lu
   photo: rock.jpg
   info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  email: 2130949@tongji.edu.cn
   number_educ: 0
   education1:
 
-- name: João van der Ven
+- name: Hao Liu
   photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
+  info: PhD student
+  email: 1853071@tongji.edu.cn
   number_educ: 0
   education1:
