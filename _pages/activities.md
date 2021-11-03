@@ -22,6 +22,8 @@ permalink: /activities
 
 * 2021.10.21 In-medium similarity renormalization group with resonance and continuum, Baishan Hu(胡柏山), TRIUMF, [video record](https://youtu.be/Fxm2RoGiU60)
 
+* 2021.11.03 Using Bayesian methods to assess model uncertainty in nuclear physics, Daniel Phillips, Ohio University, [video record](https://youtu.be/aS25IDxcAKI)
+
 
 
 
