@@ -75,7 +75,7 @@ permalink: /team/
 
 ## PhD and Master Students
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
