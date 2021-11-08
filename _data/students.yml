@@ -9,20 +9,21 @@
 #  education4:
 
 - name: Yazhou Lu
-  photo: rock.jpg
-  info: Master student
+  photo: luyazhou.jpeg
+  info: Master student from Tongji U, working on medium/high energy scattering theory
   email: 2130949@tongji.edu.cn
   number_educ: 0
   education1:
 
 - name: Hao Liu
-  photo: rock.jpg
-  info: PhD student
+  photo: liuhao.jpeg
+  info: PhD student from Tongji U, working on surrogate reactions
   email: 1853071@tongji.edu.cn
   number_educ: 0
   education1:
 
 - name: Yingjie Wu
+  photo: wuyingjie.jpeg
   info: Master student
   email: yingjiewu@mails.ccnu.edu.cn
   number_educ: 2
@@ -30,6 +31,7 @@
   education2: 2020-present  MS  Central China Normal University
 
 - name:  Zhang Xiang
+  photo: zhangxiang.jpeg
   info: Master student
   email: 875474176@qq.com
   number_educ : 2
@@ -37,8 +39,8 @@
   education2: 2020-present Central china normal university
 
 - name: Xiaoya HOU
-  photo: rock.jpg
-  info: PhD student
+  photo: houxiaoya.jpeg
+  info: Master student
   email: 1139283103@qq.com
   number_educ: 2
   education1: 2017-2021 Henan Normal University
