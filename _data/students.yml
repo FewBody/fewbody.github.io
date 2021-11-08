@@ -21,3 +21,25 @@
   email: 1853071@tongji.edu.cn
   number_educ: 0
   education1:
+
+- name: Yingjie Wu
+  info: Master student
+  email: yingjiewu@mails.ccnu.edu.cn
+  number_educ: 2
+  education1: 2012-2016  B.Sc Henan Polytechnic University
+  education2: 2020-present  MS  Central China Normal University
+
+- name:  Zhang Xiang
+  info: Master student
+  email: 875474176@qq.com
+  number_educ : 2
+  education1: 2013-2017 Chuzhou University
+  education2: 2020-present Central china normal university
+
+- name: Xiaoya HOU
+  photo: rock.jpg
+  info: PhD student
+  email: 1139283103@qq.com
+  number_educ: 2
+  education1: 2017-2021 Henan Normal University
+  education2: 2021-present Central China Normal University
