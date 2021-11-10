@@ -10,6 +10,8 @@ permalink: /activities
 
 * 2021.06.21, Jacobi no-core Shell Model (J-NCSM), Hoai Le, Forschungszentrum Jülich, [slides]({{ site.baseurl }}/downloads/Jacobi_NCSM.pdf)
 
+* 2021.07.14, Calculation of the A=6 bound states within the hyperspherical harmonic basis, Alex Gnech, Jefferson Lab.  
+
 * 2021.09.02, Ab initio nuclear scattering and reaction calculation, Xilin Zhang, MSU, [slides]({{ site.baseurl }}/downloads/Xilin_Zhang_seminar_JinLei_group_online.pptx),[video record](https://youtu.be/gsK_cTyjGus)
 
 * 2021.09.16, Improved Uncertainty Estimates with R-Matrix Theory, Daniel Odell, Postdoc, Ohio University,
@@ -18,11 +20,14 @@ permalink: /activities
 * 2021.09.23, (Un)utility of Faddeev-Yakubovski equations, Rimantas LAZAUSKAS, CNRS, IPHC, Strasbourg
 [slides]({{ site.baseurl }}/downloads/Lazauskas_shanghai.ppsx), [video record](https://youtu.be/RGuC8tYmW1E)
 
-* 2021.09.30 理论研究弹性碰撞的约束变分方法, 张俊义, 中国科学院精密测量科学与技术创新研究院, [video record](https://youtu.be/1nB4IsiGsig)
+* 2021.09.30, 理论研究弹性碰撞的约束变分方法, 张俊义, 中国科学院精密测量科学与技术创新研究院, [video record](https://youtu.be/1nB4IsiGsig)
 
-* 2021.10.21 In-medium similarity renormalization group with resonance and continuum, Baishan Hu(胡柏山), TRIUMF, [video record](https://youtu.be/Fxm2RoGiU60)
+* 2021.10.21, In-medium similarity renormalization group with resonance and continuum, Baishan Hu(胡柏山), TRIUMF, [video record](https://youtu.be/Fxm2RoGiU60)
 
-* 2021.11.03 Using Bayesian methods to assess model uncertainty in nuclear physics, Daniel Phillips, Ohio University, [slides]({{ site.baseurl }}/downloads/WuhanSeminar.pdf), [video record](https://youtu.be/aS25IDxcAKI)
+* 2021.11.03, Using Bayesian methods to assess model uncertainty in nuclear physics, Daniel Phillips, Ohio University, [slides]({{ site.baseurl }}/downloads/WuhanSeminar.pdf), [video record](https://youtu.be/aS25IDxcAKI)
+
+* 2021.11.10, Recent advances in few-body nuclear reactions, Arnoldas Deltuva, Vilnius University, [video record](https://youtu.be/qCNDk2AnE_o)
+
 
 
 
