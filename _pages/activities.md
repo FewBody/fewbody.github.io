@@ -10,7 +10,7 @@ permalink: /activities
 
 * 2021.06.21, Jacobi no-core Shell Model (J-NCSM), Hoai Le, Forschungszentrum Jülich, [slides]({{ site.baseurl }}/downloads/Jacobi_NCSM.pdf)
 
-* 2021.07.14, Calculation of the A=6 bound states within the hyperspherical harmonic basis, Alex Gnech, Jefferson Lab.  
+* 2021.07.14, Calculation of the A=6 bound states within the hyperspherical harmonic basis, Alex Gnech, Jefferson Lab, [slides]({{ site.baseurl }}/downloads/alex.pdf)  
 
 * 2021.09.02, Ab initio nuclear scattering and reaction calculation, Xilin Zhang, MSU, [slides]({{ site.baseurl }}/downloads/Xilin_Zhang_seminar_JinLei_group_online.pptx),[video record](https://youtu.be/gsK_cTyjGus)
 
@@ -26,7 +26,7 @@ permalink: /activities
 
 * 2021.11.03, Using Bayesian methods to assess model uncertainty in nuclear physics, Daniel Phillips, Ohio University, [slides]({{ site.baseurl }}/downloads/WuhanSeminar.pdf), [video record](https://youtu.be/aS25IDxcAKI)
 
-* 2021.11.10, Recent advances in few-body nuclear reactions, Arnoldas Deltuva, Vilnius University, [video record](https://youtu.be/qCNDk2AnE_o)
+* 2021.11.10, Recent advances in few-body nuclear reactions, Arnoldas Deltuva, Vilnius University, [slides]({{ site.baseurl }}/downloads/talk-cn21.pdf), [video record](https://youtu.be/qCNDk2AnE_o)
 
 
 
