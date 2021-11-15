@@ -102,5 +102,5 @@ We are grateful for funding from [Tongji University](https://en.tongji.edu.cn/in
 <figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ccnu.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hhu.jpeg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tongji.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tongji.jpeg" style="width: 110px">
 </figure>
