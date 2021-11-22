@@ -9,12 +9,14 @@
 
 - name: Dong Bai
   photo: dbai.jpg
-  info: Postdoc at Tongji University, started June 2019
-  email: dbai@tongji.edu.cn
-  number_educ: 2
+  info: Associated Professor at Hohai University, started Nov 2021
+  email: dbai@hhu.edu.cn
+  number_educ: 3
   education1: 2012.9-2017.7 PhD with Yue-Liang Wu, Institute of Theoretical Physics, Chinese Academy of Sciences
   education2: 2017.5-2019.5  Postdoc with Zhongzhou Ren, Nanjing University
+  education3: 2019.6-2021.11 Postdoc with Zhongzhou Ren, Tongji University
 
+  
 - name: Jin Lei
   photo: jinlei.jpeg
   info: Research Fellow at Tongji University, started Nov 2020
