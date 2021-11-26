@@ -28,7 +28,10 @@ permalink: /activities
 
 * 2021.11.10, Recent advances in few-body nuclear reactions, Arnoldas Deltuva, Vilnius University, [slides]({{ site.baseurl }}/downloads/talk-cn21.pdf), [video record](https://youtu.be/qCNDk2AnE_o)
 
-* 2021.11.25, Clusters and correlations in nuclear structure and reactions with light nuclei, Lorenzo Fortunato, Univ. Padova (Italy), [video record](https://youtu.be/d2WNBT57IKc)
+* 2021.11.25, Clusters and correlations in nuclear structure and reactions with light nuclei, Lorenzo Fortunato, Univ. Padova (Italy),[slides]({{ site.baseurl }}/downloads/Shanghai-seminario-Nov2021.pdf), [video record](https://youtu.be/d2WNBT57IKc)
+
+
+
 
 
 
