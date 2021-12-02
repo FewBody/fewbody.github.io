@@ -31,7 +31,7 @@ permalink: /activities
 * 2021.11.25, Clusters and correlations in nuclear structure and reactions with light nuclei, Lorenzo Fortunato, Univ. Padova (Italy),[slides]({{ site.baseurl }}/downloads/Shanghai-seminario-Nov2021.pdf), [video record](https://youtu.be/d2WNBT57IKc)
 
 
-
+* 2021.12.02, More is different: Particle‐number‐dependence in EFT, Chieh-Jen (Jerry) Yang, Nuclear Physics Institute of the Czech Academy of Sciences, [video record](https://youtu.be/VMlHqu5bNpI)
 
 
 
