@@ -92,10 +92,10 @@ The seminar forum is to organize online scientific talks focused on (but not lim
 
 
 
-* Dong Bai (Hehai University),
-Associated Professor
-College of Science
-Hohai University
+* Dong Bai    
+Associated Professor  
+College of Science  
+Hohai University  
 Research Interests: nuclear cluster physics.
 
 
