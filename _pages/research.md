@@ -11,7 +11,8 @@ permalink: /research/
 ## Research group in Tongji University
 
 The research group in Tongji University is broadly interested in nuclear physics with particular emphasis on understanding the dynamics of nucleus-nucleus system. In particular, our research interests are using the few-body technique to solve the nuclear reaction with
-effective interactions. Our research agenda focus on the question of how to get the exactly solution of quantum few body system and apply this solution to explain the observables obtained from experiment.
+effective interactions. Our research agenda focus on the question of how to get solutions of quantum few body systems and apply these solutions to explain the observables obtained from experiment. Our research can be divided into three different energy region, namely astrophysics energy, Coulomb barrier energy, and semi-classical energy. 
+
 
 <!-- Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
