@@ -1,14 +1,10 @@
 ---
-title: "Group Meeting"
-layout: textlay
-excerpt: "Tangram Nuclear Theory Collaboration"
+title: "Tangram Nuclear Theory Collaboration - Group Meeting"
+layout: piclay
+excerpt: "Tangram Nuclear Theory Collaboration -- Group Meeting"
 sitemap: false
 permalink: /groupmeeting/
 ---
 
 # groupmeeting
 
-
-<p>{{ article.date }} <br>
-<em>{{ article.headline }}</em></p>
-{% endfor %}
