@@ -1,9 +1,9 @@
 ---
-title: "Tangram Nuclear Theory Collaboration - Activities"
+title: "Tangram Nuclear Theory Collaboration - Seminar"
 layout: textlay
-excerpt: "Activities"
+excerpt: "Seminar"
 sitemap: false
-permalink: /activities
+permalink: /Seminar
 ---
 
 # Seminars
