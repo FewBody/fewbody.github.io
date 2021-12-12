@@ -6,7 +6,7 @@ sitemap: false
 permalink: /groupmeeting/
 ---
 
-# groupmeeting
+# Groupmeeting
 
 # 2021/12/9
 * analysising the examples of the unfair coin and Cocid-19 testing from Bayes theorem.
