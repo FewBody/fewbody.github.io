@@ -3,7 +3,7 @@ title: "Tangram Nuclear Theory Collaboration - Seminar"
 layout: textlay
 excerpt: "Seminar"
 sitemap: false
-permalink: /Seminar
+permalink: /seminar/
 ---
 
 # Seminars
