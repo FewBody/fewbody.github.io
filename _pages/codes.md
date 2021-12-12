@@ -4,7 +4,7 @@ layout: piclay
 excerpt: "Tangram Nuclear Theory Collaboration -- Codes"
 permalink: /codes/
 ---
-#codes
+# codes
 
 * Solve the np bound state in coordinate space with a simple Gaussian potential, [slides]({{ site.baseurl }}/downloads/np_bound_numerov.pdf), [code]({{ site.baseurl }}/downloads/numerov_np_bound.zip)
 
