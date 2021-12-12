@@ -3,7 +3,7 @@ title: "Group Meeting"
 layout: textlay
 excerpt: "Tangram Nuclear Theory Collaboration"
 sitemap: false
-permalink: /groupmeeting.html
+permalink: /groupmeeting/
 ---
 
 # groupmeeting
