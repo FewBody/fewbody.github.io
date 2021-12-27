@@ -18,5 +18,9 @@ permalink: /groupmeeting/
 *  Playing with plots of probability density functions (pdfs) using the scipy.stats and numpy libraries. <a href="https://github.com/NuclearTalent/Bayes2019/blob/master/topics/basics-of-bayesian-statistics/Exploring_pdfs.ipynb">jupiternotes</a>
 *  Compare the characteristics of different distribution functions e.g. beta distribution and gauss distribution.
 
-# Next meeting will take place in 13:30 12/23.
-*  To go on playing with plots of probability density functions (pdfs) using the scipy.stats and numpy libraries. <a href="https://github.com/NuclearTalent/Bayes2019/blob/master/topics/basics-of-bayesian-statistics/Exploring_pdfs.ipynb">jupiternotes</a>
+# 2021/12/23.
+*  Going on playing with plots of probability density functions (pdfs) using the scipy.stats and numpy libraries. <a href="https://github.com/NuclearTalent/Bayes2019/blob/master/topics/basics-of-bayesian-statistics/Exploring_pdfs.ipynb">jupiternotes</a>
+*  Discussing the different cases that contains two or more distributions e.g. plot of beta distribution and gauss distribution in the same coordinate, which is 
+enlightening to distinguish the wave functions. 
+
+# We will meet again next term!
