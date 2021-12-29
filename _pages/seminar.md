@@ -31,9 +31,10 @@ permalink: /seminar/
 * 2021.11.25, Clusters and correlations in nuclear structure and reactions with light nuclei, Lorenzo Fortunato, Univ. Padova (Italy),[slides]({{ site.baseurl }}/downloads/Shanghai-seminario-Nov2021.pdf), [video record](https://youtu.be/d2WNBT57IKc)
 
 
-* 2021.12.02, More is different: Particle‐number‐dependence in EFT, Chieh-Jen (Jerry) Yang, Nuclear Physics Institute of the Czech Academy of Sciences, [video record](https://youtu.be/VMlHqu5bNpI)
+* 2021.12.02, More is different: Particle‐number‐dependence in EFT, Chieh-Jen (Jerry) Yang, Nuclear Physics Institute of the Czech Academy of Sciences, [slides]({{ site.baseurl }}/downloads/jerryyang.pdf), [video record](https://youtu.be/VMlHqu5bNpI)
 
 
+* 2021.12.29, Pionless Effective Field Theory for Nuclei and Hypernuclei, Betzalel Bazak,Racah Institute of Physics, The Hebrew University of Jerusalem, [video record](https://youtu.be/NsSdwPlVYXo)
 
 
 <!-- [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
