@@ -79,6 +79,7 @@ The seminar forum is to organize online scientific talks focused on (but not lim
 
 * Chen Ji  
  Associate Professor  
+ Email: <jichen@ccnu.edu.cn>   
  Key Laboratory of Quark and Lepton Physics  
  Central China Normal University  
  Research Interests: few-body nuclear theories, including studies of Efimov physics in cold atoms, halo effective field theory, nuclear polarization in muonic atoms, etc.
@@ -86,6 +87,7 @@ The seminar forum is to organize online scientific talks focused on (but not lim
 
 * Jin Lei  
  Research Fellow  
+ Email: <jinl@tongji.edu.cn>  
  School of Physics Science and Engineering  
  Tongji University  
  Research Interests: nuclear reaction theories.
@@ -94,6 +96,7 @@ The seminar forum is to organize online scientific talks focused on (but not lim
 
 * Dong Bai    
 Associated Professor  
+Email: <dbai@hhu.edu.cn>   
 College of Science  
 Hohai University  
 Research Interests: nuclear cluster physics.
