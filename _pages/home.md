@@ -6,13 +6,13 @@ sitemap: false
 permalink: /
 ---
 
-
+**About Tanthco:**
 
 <figure class="fourth" style="text-align:left">
   <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tanthco-01.png"  max-width="580px">
 </figure>
 
-**About Tanthco:**
+
 
 The Tangram Nuclear Theory Collaboration (Tanthco) was initiated by nuclear theory groups at Tongji University (Shanghai), Hehai University (Nanjing) and Central China Normal University (Wuhan) in China to promote collaboration, communication and education under the topics of theoretical development in nuclear structure and reaction physics. The name Tangram is inspired by an old polygon puzzle game to indicate the variety of collaborative possibilities of Tanthco in geographical locations, activities and research subjects. The current form of Tanthco consists of three programs, seminar forum, student meetup, and science workshop, hosting online events to promote multilateral collaboration and discussions among universities and institutes.
 
