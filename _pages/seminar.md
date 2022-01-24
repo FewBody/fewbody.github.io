@@ -36,7 +36,10 @@ permalink: /seminar/
 
 * 2021.12.29, Pionless Effective Field Theory for Nuclei and Hypernuclei, Betzalel Bazak,Racah Institute of Physics, The Hebrew University of Jerusalem, [slides]({{ site.baseurl }}/downloads/Bazak_talk.pdf), [video record](https://youtu.be/NsSdwPlVYXo)
 
-* 2022.01.24, Eigenvector Continuation in Nuclear Physics, Sebastian Koenig, North Carolina State University, [video record](https://youtu.be/2rfQKmsAROA)
+* 2022.01.24, Eigenvector Continuation in Nuclear Physics, Sebastian Koenig, North Carolina State University, [slides]({{ site.baseurl }}/downloads/ccnu_2022_sk.pdf), [video record](https://youtu.be/2rfQKmsAROA)
+
+
+
 
 
 <!-- [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
