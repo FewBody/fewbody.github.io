@@ -38,7 +38,7 @@ permalink: /seminar/
 
 * 2022.01.24, Eigenvector Continuation in Nuclear Physics, Sebastian Koenig, North Carolina State University, [slides]({{ site.baseurl }}/downloads/ccnu_2022_sk.pdf), [video record](https://youtu.be/2rfQKmsAROA)
 
-* 2022.01.24, Unnuclear physics and universality, Hans-Werner Hammer, EMMI Professor
+* 2022.02.17, Unnuclear physics and universality, Hans-Werner Hammer, EMMI Professor
 TU Darmstadt, Germany, [slides]({{ site.baseurl }}/downloads/Tangram22.pdf), [video record](https://youtu.be/kFJJGF_ngio)
 
 
