@@ -42,6 +42,9 @@ permalink: /seminar/
 TU Darmstadt, Germany, [slides]({{ site.baseurl }}/downloads/Tangram22.pdf), [video record](https://youtu.be/kFJJGF_ngio)
 
 
+* 2022.02.17, Rodeo algorithm for quantum computation, Dean Lee, Professor, MSU, USA, [slides]({{ site.baseurl }}/downloads/Lee_TANTHCO_Seminar_2022.pdf), [video record](https://youtu.be/YajtnatwqmM)
+
+
 
 
 <!-- [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
