@@ -23,4 +23,6 @@ permalink: /groupmeeting/
 *  Discussing the different cases that contains two or more distributions e.g. plot of beta distribution and gauss distribution in the same coordinate, which is 
 enlightening to distinguish the wave functions. 
 
-# We will meet again next term!
+# 2021/2/28
+*  Showing that plane wave can be written by Bessel function and Spherical harmonics.
+*  Proving that the optical theorem is valid when when inelastic events are included in the total cross section.<a href="https://github.com/NuclearTalent/Bayes2019/blob/master/topics/basics-of-bayesian-statistics/hw_19_1.pdf">question</a>
