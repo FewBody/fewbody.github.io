@@ -44,6 +44,9 @@ TU Darmstadt, Germany, [slides]({{ site.baseurl }}/downloads/Tangram22.pdf), [vi
 
 * 2022.02.17, Rodeo algorithm for quantum computation, Dean Lee, Professor, MSU, USA, [slides]({{ site.baseurl }}/downloads/Lee_TANTHCO_Seminar_2022.pdf), [video record](https://youtu.be/YajtnatwqmM)
 
+* 2022.03.02, Reaction models in nuclear astrophysics, Pierre Descouvemont, FNRS Research Director, Université Libre de Bruxelles, [slides]({{ site.baseurl }}/downloads/nuclear_astro_2022.pdf), [video record](https://youtu.be/ZaP1tZ5xKlk)
+
+
 
 
 
