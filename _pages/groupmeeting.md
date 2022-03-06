@@ -26,3 +26,5 @@ enlightening to distinguish the wave functions.
 # 2021/2/28
 *  Showing that plane wave can be written by Bessel function and Spherical harmonics.
 *  Proving that the optical theorem is valid when when inelastic events are included in the total cross section. [question]({{ site.baseurl }}/downloads/hw_19_1.pdf), [ans]({{ site.baseurl }}/downloads/ans22_1.pdf)
+
+# Next group meeting will take place on 2021/3/7.
