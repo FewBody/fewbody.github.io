@@ -27,4 +27,8 @@ enlightening to distinguish the wave functions.
 *  Showing that plane wave can be written by Bessel function and Spherical harmonics.
 *  Proving that the optical theorem is valid when when inelastic events are included in the total cross section. [question]({{ site.baseurl }}/downloads/hw_19_1.pdf), [ans]({{ site.baseurl }}/downloads/ans22_1.pdf)
 
-# Next group meeting will take place on 2021/3/7.
+# 2021/3/7
+*  Cross sections and phase shift analysis.
+*  Phase shifts for hard sphere scattering, and the cross section in twe limits, k approach to zero or infinity. [question]({{ site.baseurl }}/downloads/hw_19_2.pdf)
+
+# Next group meeting will take place on 2021/3/14.
