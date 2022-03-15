@@ -46,6 +46,7 @@ TU Darmstadt, Germany, [slides]({{ site.baseurl }}/downloads/Tangram22.pdf), [vi
 
 * 2022.03.02, Reaction models in nuclear astrophysics, Pierre Descouvemont, FNRS Research Director, Université Libre de Bruxelles, [slides]({{ site.baseurl }}/downloads/nuclear_astro_2022.pdf), [video record](https://youtu.be/ZaP1tZ5xKlk)
 
+* 2022.03.11, Improving mass predictions throughout the Nuclear Chart, Rodrigo Navarro Perez, Assistant Professor, San Diego State University, [slides]({{ site.baseurl }}/downloads/improving_masses.pdf), [video record](https://youtu.be/veKl5qSTdo4)
 
 
 
