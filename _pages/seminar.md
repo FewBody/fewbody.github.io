@@ -49,6 +49,10 @@ TU Darmstadt, Germany, [slides]({{ site.baseurl }}/downloads/Tangram22.pdf), [vi
 * 2022.03.11, Improving mass predictions throughout the Nuclear Chart, Rodrigo Navarro Perez, Assistant Professor, San Diego State University, [slides]({{ site.baseurl }}/downloads/improving_masses.pdf), [video record](https://youtu.be/veKl5qSTdo4)
 
 
+* 2022.03.18, Quantum many-body dynamics in heavy-ion fusion reactions around the Coulomb barrier, Kouichi Hagino, Professor, Kyoto University, [slides]({{ site.baseurl }}/downloads/Hagino_Tongji2022.pdf), [video record](https://youtu.be/UiUAPzpVyuI)
+
+
+
 
 
 <!-- [Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
