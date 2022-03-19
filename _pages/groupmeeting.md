@@ -32,6 +32,6 @@ enlightening to distinguish the wave functions.
 *  Phase shifts for hard sphere scattering, and the cross section in twe limits, k approach to zero or infinity. [question]({{ site.baseurl }}/downloads/hw_19_2.pdf)
 
 # 2022/3/14
-*  Continuing the discussing the last question.
+*  Continuing discussing the last question.
 
 # Next group meeting will take place on 2022/3/21.
