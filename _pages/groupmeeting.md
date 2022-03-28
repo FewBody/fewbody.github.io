@@ -18,7 +18,7 @@ permalink: /groupmeeting/
 
 # 2022/3/7
 *  Cross sections and phase shift analysis.[ans]({{ site.baseurl }}/downloads/ans22_2_1.pdf)
-*  Phase shifts for hard sphere scattering, and the cross section in twe limits, k approach to zero or infinity. [question]({{ site.baseurl }}/downloads/hw_19_2.pdf)[ans]({{ site.baseurl }}/downloads/ans22_2_2.pdf)
+*  Phase shifts for hard sphere scattering, and the cross section in twe limits, k approach to zero or infinity. [question]({{ site.baseurl }}/downloads/hw_19_2.pdf), [ans]({{ site.baseurl }}/downloads/ans22_2_2.pdf)
 
 # 2022/2/28
 *  Showing that plane wave can be written by Bessel function and Spherical harmonics.
