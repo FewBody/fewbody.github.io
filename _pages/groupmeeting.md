@@ -8,7 +8,12 @@ permalink: /groupmeeting/
 
 # Group Meeting
 
-# Next group meeting will take place on 2022/3/28.
+# Next group meeting will take place on 2022/4/4.
+
+
+# 2022/3/28
+*  Analysising phase shifts for hard sphere scattering, and the cross section in twe limits, k approach to zero or infinity.
+
 
 # 2022/3/21
 *  Finishing the question of the Cross sections and phase shift analysis.
