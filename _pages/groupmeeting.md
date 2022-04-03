@@ -10,6 +10,9 @@ permalink: /groupmeeting/
 
 # Next group meeting will take place on 2022/4/4.
 
+# 2022/4/4
+*  Scattering from a spherical square well. [question]({{ site.baseurl }}/downloads/hw_19_3.pdf), [ans]({{ site.baseurl }}/downloads/ans22_3.pdf)
+
 
 # 2022/3/28
 *  Analysising phase shifts for hard sphere scattering, and the cross section in twe limits, k approach to zero or infinity.
