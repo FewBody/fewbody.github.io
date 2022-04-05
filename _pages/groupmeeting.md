@@ -8,7 +8,7 @@ permalink: /groupmeeting/
 
 # Group Meeting
 
-# Next group meeting will take place on 2022/4/4.
+# Next group meeting will take place on 2022/4/11.
 
 # 2022/4/4
 *  Scattering from a spherical square well. [question]({{ site.baseurl }}/downloads/hw_19_3.pdf), [ans]({{ site.baseurl }}/downloads/ans22_3.pdf)
