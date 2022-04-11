@@ -10,6 +10,10 @@ permalink: /groupmeeting/
 
 # Next group meeting will take place on 2022/4/11.
 
+# 2020/4/11
+*  Continuing discussing the last question.
+*  Born approximation for Gaussian potential. [question]({{ site.baseurl }}/downloads/hw_19_4.pdf), [ans]({{ site.baseurl }}/downloads/ans22_4.pdf)
+
 # 2022/4/4
 *  Scattering from a spherical square well. [question]({{ site.baseurl }}/downloads/hw_19_3.pdf), [ans]({{ site.baseurl }}/downloads/ans22_3.pdf)
 
