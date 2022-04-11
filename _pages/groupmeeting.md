@@ -8,9 +8,9 @@ permalink: /groupmeeting/
 
 # Group Meeting
 
-# Next group meeting will take place on 2022/4/11.
+# Next group meeting will take place on 2022/4/18.
 
-# 2020/4/11
+# 2020/4/18
 *  Continuing discussing the last question.
 *  Born approximation for Gaussian potential. [question]({{ site.baseurl }}/downloads/hw_19_4.pdf), [ans]({{ site.baseurl }}/downloads/ans22_4.pdf)
 
