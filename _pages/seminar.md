@@ -41,15 +41,15 @@ permalink: /seminar/
 * 2022.02.17, Unnuclear physics and universality, Hans-Werner Hammer, EMMI Professor
 TU Darmstadt, Germany, [slides]({{ site.baseurl }}/downloads/Tangram22.pdf), [video record](https://youtu.be/kFJJGF_ngio)
 
-
 * 2022.02.24, Rodeo algorithm for quantum computation, Dean Lee, Professor, MSU, USA, [slides]({{ site.baseurl }}/downloads/Lee_TANTHCO_Seminar_2022.pdf), [video record](https://youtu.be/YajtnatwqmM)
 
 * 2022.03.02, Reaction models in nuclear astrophysics, Pierre Descouvemont, FNRS Research Director, Université Libre de Bruxelles, [slides]({{ site.baseurl }}/downloads/nuclear_astro_2022.pdf), [video record](https://youtu.be/ZaP1tZ5xKlk)
 
 * 2022.03.11, Improving mass predictions throughout the Nuclear Chart, Rodrigo Navarro Perez, Assistant Professor, San Diego State University, [slides]({{ site.baseurl }}/downloads/improving_masses.pdf), [video record](https://youtu.be/veKl5qSTdo4)
 
-
 * 2022.03.18, Quantum many-body dynamics in heavy-ion fusion reactions around the Coulomb barrier, Kouichi Hagino, Professor, Kyoto University, [slides]({{ site.baseurl }}/downloads/Hagino_Tongji2022.pdf), [video record](https://youtu.be/UiUAPzpVyuI)
+
+* 2022.04.13, Geometry, entanglement and causality in the non-relativistic scattering matrix, Silas Beane, Professor, Washington University, [video record](https://youtu.be/goUMdmzMxLA)
 
 
 
