@@ -49,7 +49,7 @@ TU Darmstadt, Germany, [slides]({{ site.baseurl }}/downloads/Tangram22.pdf), [vi
 
 * 2022.03.18, Quantum many-body dynamics in heavy-ion fusion reactions around the Coulomb barrier, Kouichi Hagino, Professor, Kyoto University, [slides]({{ site.baseurl }}/downloads/Hagino_Tongji2022.pdf), [video record](https://youtu.be/UiUAPzpVyuI)
 
-* 2022.04.13, Geometry, entanglement and causality in the non-relativistic scattering matrix, Silas Beane, Professor, Washington University, [video record](https://youtu.be/goUMdmzMxLA)
+* 2022.04.13, Geometry, entanglement and causality in the non-relativistic scattering matrix, Silas Beane, Professor, Washington University,[slides]({{ site.baseurl }}/downloads/TangramNTC2022.pdf), [video record](https://youtu.be/goUMdmzMxLA)
 
 
 
