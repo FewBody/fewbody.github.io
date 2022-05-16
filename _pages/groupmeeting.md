@@ -10,14 +10,19 @@ permalink: /groupmeeting/
 
 # Next group meeting will take place on 2022/5/19.
 
+
 # 2022/5/12
-* IAV module. [slid]({{ site.baseurl }}/downloads/DirectNuclearReaction.pdf)
-* Quantum computing. [slid]({{ site.baseurl }}/downloads/量子计算notes_5_12_2022.pdf)，[slid]({{ site.baseurl }}/downloads/0512-武亦文-量子计算.pdf)
+* IAV module. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction.pdf), [slides]({{ site.baseurl }}/downloads/IAV2.pdf)
+* Quantum computing. [slides]({{ site.baseurl }}/downloads/量子计算notes_5_12_2022.pdf),[slid]({{ site.baseurl }}/downloads/0512-武亦文-量子计算.pdf)
 * Nuclear astrophysics. 
+
+
 # 2022/5/5
-* IAV module. [slid]({{ site.baseurl }}/downloads/myNote1.pdf)
-* Quantum computing. [slid]({{ site.baseurl }}/downloads/myNote1.pdf)，[slid]({{ site.baseurl }}/downloads/note1.pdf)，[slid]({{ site.baseurl }}/downloads/0505-武亦文-量子计算.pdf)
-* Nuclear astrophysics. [slid]({{ site.baseurl }}/downloads/mywork.pdf)
+* IAV module. [slides]({{ site.baseurl }}/downloads/myNote1.pdf), [slides]({{ site.baseurl }}/downloads/IAV模型.pdf)
+* Quantum computing. [slides]({{ site.baseurl }}/downloads/myNote1.pdf), [slides]({{ site.baseurl }}/downloads/note1.pdf), [slides]({{ site.baseurl }}/downloads/0505-武亦文-量子计算.pdf)
+* Nuclear astrophysics. [slides]({{ site.baseurl }}/downloads/mywork.pdf)
+
+
 # 2022/5/2
 *  Finishing the question of Born approximation for Gaussian potential.
 
