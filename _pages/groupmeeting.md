@@ -10,6 +10,16 @@ permalink: /groupmeeting/
 
 # Next group meeting will take place on 2022/5/2.
 
+# 2022/5/12
+* IAV module. [slid]({{ site.baseurl }}/downloads/DirectNuclearReaction.pdf)
+* Quantum computing. [slid]({{ site.baseurl }}/downloads/量子计算notes_5_12_2022.pdf)，[slid]({{ site.baseurl }}/downloads/0512-武亦文-量子计算.pdf)
+* Nuclear astrophysics. 
+# 2022/5/5
+* IAV module. [slid]({{ site.baseurl }}/downloads/myNote1.pdf)
+* Quantum computing. [slid]({{ site.baseurl }}/downloads/myNote1.pdf)，[slid]({{ site.baseurl }}/downloads/note1.pdf)，[slid]({{ site.baseurl }}/downloads/0505-武亦文-量子计算.pdf)
+* Nuclear astrophysics. [slid]({{ site.baseurl }}/downloads/mywork.pdf)
+# 2022/5/2
+*  Finishing the question of Born approximation for Gaussian potential.
 
 # 2022/4/25
 *  Continuing discussing the last question.
