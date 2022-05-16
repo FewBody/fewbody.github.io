@@ -8,7 +8,7 @@ permalink: /groupmeeting/
 
 # Group Meeting
 
-# Next group meeting will take place on 2022/5/2.
+# Next group meeting will take place on 2022/5/19.
 
 # 2022/5/12
 * IAV module. [slid]({{ site.baseurl }}/downloads/DirectNuclearReaction.pdf)
