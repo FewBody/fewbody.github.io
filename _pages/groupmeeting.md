@@ -13,7 +13,7 @@ permalink: /groupmeeting/
 
 # 2022/5/12
 * IAV module. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction.pdf), [slides]({{ site.baseurl }}/downloads/IAV2.pdf)
-* Quantum computing. [slides]({{ site.baseurl }}/downloads/量子计算notes_5_12_2022.pdf),[slid]({{ site.baseurl }}/downloads/0512-武亦文-量子计算.pdf)
+* Quantum computing. [slides]({{ site.baseurl }}/downloads/量子计算notes_5_12_2022.pdf),[slides]({{ site.baseurl }}/downloads/0512-武亦文-量子计算.pdf)
 * Nuclear astrophysics. 
 
 
