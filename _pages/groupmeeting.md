@@ -14,13 +14,13 @@ permalink: /groupmeeting/
 # 2022/5/12
 * IAV module. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction.pdf), [slides]({{ site.baseurl }}/downloads/IAV2.pdf)
 * Quantum computing. [slides]({{ site.baseurl }}/downloads/量子计算notes_5_12_2022.pdf),[slides]({{ site.baseurl }}/downloads/0512-武亦文-量子计算.pdf)
-* Nuclear astrophysics. 
-
+* Nuclear astrophysics. [slides]({{ site.baseurl }}/downloads/态空间的张量积.pdf), [slides]({{ site.baseurl }}/downloads/Nuclear Equation of State.pdf)
+* Bayes analysis. [slides]({{ site.baseurl }}/downloads/511(5).pdf)
 
 # 2022/5/5
-* IAV module. [slides]({{ site.baseurl }}/downloads/myNote1.pdf), [slides]({{ site.baseurl }}/downloads/IAV模型.pdf)
+* IAV module. [slides]({{ site.baseurl }}/downloads/IAV_model.pdf), [slides]({{ site.baseurl }}/downloads/IAV模型.pdf)
 * Quantum computing. [slides]({{ site.baseurl }}/downloads/myNote1.pdf), [slides]({{ site.baseurl }}/downloads/note1.pdf), [slides]({{ site.baseurl }}/downloads/0505-武亦文-量子计算.pdf)
-* Nuclear astrophysics. [slides]({{ site.baseurl }}/downloads/mywork.pdf)
+* Folding potential. [slides]({{ site.baseurl }}/downloads/mywork.pdf)
 
 
 # 2022/5/2
