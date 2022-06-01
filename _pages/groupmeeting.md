@@ -8,7 +8,15 @@ permalink: /groupmeeting/
 
 # Group Meeting
 
-# Next group meeting will take place on 2022/5/26.
+# Next group meeting will take place on 2022/6/2.
+
+
+# 2022/5/26
+* IAV module. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction2.pdf)
+* Quantum computing. [slides]({{ site.baseurl }}/downloads/0526-武亦文-量子计算.pdf), [slides]({{ site.baseurl }}/downloads/dyyd20220526.pdf)
+* Tensor analysis of special relativity. [slides]({{ site.baseurl }}/downloads/狭义相对论的张量分析.pdf)
+* Bayes analysis. [slides]({{ site.baseurl }}/downloads/523.pdf)
+* Folding potential.[slides]({{ site.baseurl }}/downloads/fourth week.pdf)
 
 
 # 2022/5/19
