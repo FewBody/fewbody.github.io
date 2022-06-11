@@ -8,6 +8,7 @@ permalink: /groupmeeting/
 
 # Group Meeting
 
+<<<<<<< HEAD
 # Next group meeting will take place on 2022/6/16.
 
 
@@ -24,10 +25,18 @@ permalink: /groupmeeting/
 
 # 2022/5/26
 * IAV model. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction2.pdf)
+=======
+# Next group meeting will take place on 2022/6/2.
+
+
+# 2022/5/26
+* IAV module. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction2.pdf)
+>>>>>>> refs/remotes/origin/gh-pages
 * Quantum computing. [slides]({{ site.baseurl }}/downloads/0526-武亦文-量子计算.pdf), [slides]({{ site.baseurl }}/downloads/dyyd20220526.pdf)
 * Tensor analysis of special relativity. [slides]({{ site.baseurl }}/downloads/狭义相对论的张量分析.pdf)
 * Bayes analysis. [slides]({{ site.baseurl }}/downloads/523.pdf)
 * Folding potential.[slides]({{ site.baseurl }}/downloads/fourth week.pdf)
+<<<<<<< HEAD
 
 
 
@@ -35,6 +44,14 @@ permalink: /groupmeeting/
 * IAV model. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction(1).pdf), [slides]({{ site.baseurl }}/downloads/IAV3.pdf)
 * Quantum computing. [slides]({{ site.baseurl }}/downloads/量子计算note3.pdf),[slides]({{ site.baseurl }}/downloads/0519-武亦文-量子计算.pdf), [slides]({{ site.baseurl }}/downloads/dyyd.pdf)
 * Nuclear astrophysics. [slides]({{ site.baseurl }}/downloads/用现实核力求解np束缚态.pdf)
+=======
+
+
+# 2022/5/19
+* IAV module. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction(1).pdf), [slides]({{ site.baseurl }}/downloads/IAV3.pdf)
+* Quantum computing. [slides]({{ site.baseurl }}/downloads/量子计算note3.pdf),[slides]({{ site.baseurl }}/downloads/0519-武亦文-量子计算.pdf), [slides]({{ site.baseurl }}/downloads/dyyd.pdf)
+* Nuclear astrophysics. 
+>>>>>>> refs/remotes/origin/gh-pages
 * Bayes analysis. [slides]({{ site.baseurl }}/downloads/519morn.pdf)
 * Folding potential.[slides]({{ site.baseurl }}/downloads/third week.pdf)
 
