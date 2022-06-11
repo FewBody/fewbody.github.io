@@ -8,11 +8,22 @@ permalink: /groupmeeting/
 
 # Group Meeting
 
-# Next group meeting will take place on 2022/6/2.
+# Next group meeting will take place on 2022/6/16.
+
+
+# 2022/6/10 
+* Resonance. [slides]({{ site.baseurl }}/downloads/resonance.pdf)
+* Folding potential.[slides]({{ site.baseurl }}/downloads/sixth week.pdf)
+
+
+# 2022/6/2 
+* Quantum computing. [slides]({{ site.baseurl }}/downloads/0602-武亦文-量子计算.pdf), [slides]({{ site.baseurl }}/downloads/dyyd20220602.pdf)
+* Tensor analysis of special relativity. [slides]({{ site.baseurl }}/downloads/狭义相对论的张量分析(2).pdf)
+* Folding potential.[slides]({{ site.baseurl }}/downloads/fifth week.pdf)
 
 
 # 2022/5/26
-* IAV module. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction2.pdf)
+* IAV model. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction2.pdf)
 * Quantum computing. [slides]({{ site.baseurl }}/downloads/0526-武亦文-量子计算.pdf), [slides]({{ site.baseurl }}/downloads/dyyd20220526.pdf)
 * Tensor analysis of special relativity. [slides]({{ site.baseurl }}/downloads/狭义相对论的张量分析.pdf)
 * Bayes analysis. [slides]({{ site.baseurl }}/downloads/523.pdf)
@@ -21,8 +32,8 @@ permalink: /groupmeeting/
 
 
 # 2022/5/19
-* IAV module. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction(1).pdf), [slides]({{ site.baseurl }}/downloads/IAV3.pdf)
-* Quantum computing. [slides]({{ site.baseurl }}/downloads/量子计算notes3.pdf),[slides]({{ site.baseurl }}/downloads/0519-武亦文-量子计算.pdf), [slides]({{ site.baseurl }}/downloads/dyyd.pdf)
+* IAV model. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction(1).pdf), [slides]({{ site.baseurl }}/downloads/IAV3.pdf)
+* Quantum computing. [slides]({{ site.baseurl }}/downloads/量子计算note3.pdf),[slides]({{ site.baseurl }}/downloads/0519-武亦文-量子计算.pdf), [slides]({{ site.baseurl }}/downloads/dyyd.pdf)
 * Nuclear astrophysics. [slides]({{ site.baseurl }}/downloads/用现实核力求解np束缚态.pdf)
 * Bayes analysis. [slides]({{ site.baseurl }}/downloads/519morn.pdf)
 * Folding potential.[slides]({{ site.baseurl }}/downloads/third week.pdf)
@@ -31,15 +42,19 @@ permalink: /groupmeeting/
 
 
 # 2022/5/12
-* IAV module. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction.pdf), [slides]({{ site.baseurl }}/downloads/IAV2.pdf)
+* IAV model. [slides]({{ site.baseurl }}/downloads/DirectNuclearReaction.pdf), [slides]({{ site.baseurl }}/downloads/IAV2.pdf)
 * Quantum computing. [slides]({{ site.baseurl }}/downloads/量子计算notes_5_12_2022.pdf),[slides]({{ site.baseurl }}/downloads/0512-武亦文-量子计算.pdf), [slides]({{ site.baseurl }}/downloads/丁杨一迪汇报2.pdf)
 * Nuclear astrophysics. [slides]({{ site.baseurl }}/downloads/态空间的张量积.pdf), [slides]({{ site.baseurl }}/downloads/Nuclear Equation of State.pdf)
 * Bayes analysis. [slides]({{ site.baseurl }}/downloads/511(5).pdf)
 * Folding potential.
 * Scattering theory. [slides]({{ site.baseurl }}/downloads/document.pdf)
 
+
+
+
+
 # 2022/5/5
-* IAV module. [slides]({{ site.baseurl }}/downloads/IAV_model.pdf), [slides]({{ site.baseurl }}/downloads/IAV模型.pdf)
+* IAV model. [slides]({{ site.baseurl }}/downloads/IAV_model.pdf), [slides]({{ site.baseurl }}/downloads/IAV模型.pdf)
 * Quantum computing. [slides]({{ site.baseurl }}/downloads/myNote1.pdf), [slides]({{ site.baseurl }}/downloads/note1.pdf), [slides]({{ site.baseurl }}/downloads/0505-武亦文-量子计算.pdf)
 * Folding potential. [slides]({{ site.baseurl }}/downloads/mywork.pdf)
 
