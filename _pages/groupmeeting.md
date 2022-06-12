@@ -16,7 +16,7 @@ permalink: /groupmeeting/
 
 
 # 2022/6/2 
-* Quantum computing. [slides]({{ site.baseurl }}/downloads/0602-武亦文-量子计算.pdf), [slides]({{ site.baseurl }}/downloads/dyyd20220602.pdf)
+* Quantum computing. [slides]({{ site.baseurl }}/downloads/0602-武亦文-量子计算.pdf), [slides]({{ site.baseurl }}/downloads/dyyd20220602.pdf),[slides]({{ site.baseurl }}/downloads/量子计算notes.pdf)
 * Tensor analysis of special relativity. [slides]({{ site.baseurl }}/downloads/狭义相对论的张量分析(2).pdf)
 * Folding potential.[slides]({{ site.baseurl }}/downloads/firth week.pdf)
 
