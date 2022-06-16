@@ -10,6 +10,12 @@ permalink: /groupmeeting/
 # Next group meeting will take place on 2022/6/16.
 
 
+
+# 2022/6/16 
+* Resonance. [slides]({{ site.baseurl }}/downloads/resonance.pdf)
+* Folding potential.[slides]({{ site.baseurl }}/downloads/seventh week.pdf)
+
+
 # 2022/6/10 
 * Resonance. [slides]({{ site.baseurl }}/downloads/resonance.pdf)
 * Folding potential.[slides]({{ site.baseurl }}/downloads/sixth week.pdf)
