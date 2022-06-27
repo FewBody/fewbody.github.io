@@ -7,7 +7,7 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will take place on 2022/6/23.
+# Next group meeting will take place on 2022/6/30.
 
 
 
