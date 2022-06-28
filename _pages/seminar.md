@@ -51,6 +51,11 @@ TU Darmstadt, Germany, [slides]({{ site.baseurl }}/downloads/Tangram22.pdf), [vi
 
 * 2022.04.13, Geometry, entanglement and causality in the non-relativistic scattering matrix, Silas Beane, Professor, Washington University,[slides]({{ site.baseurl }}/downloads/TangramNTC2022.pdf), [video record](https://youtu.be/goUMdmzMxLA)
 
+* 2022.06.28, 电子俘获致核激发实验研究, 郭松, 研究员, 近代物理研究所,[slides]({{ site.baseurl }}/downloads/guosong.pptx), [video record](https://youtu.be/fCb4626dbf8)
+
+
+
+
 
 
 
