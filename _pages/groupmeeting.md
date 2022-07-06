@@ -7,9 +7,12 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will take place on 2022/6/30.
+# Next group meeting will take place on 2022/7/14.
 
-
+# 2022/6/30
+* Light composite particle emission in deuteron-induced reactions. [slides]({{ site.baseurl }}/downloads/LCP describe.pdf)
+* Folding potential.
+* Observation of tetraneutron. [slides]({{ site.baseurl }}/downloads/组会6.30.pdf)
 
 # 2022/6/16 
 * Resonance. [slides]({{ site.baseurl }}/downloads/resonance.pdf)
