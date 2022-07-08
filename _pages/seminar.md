@@ -55,6 +55,7 @@ TU Darmstadt, Germany, [slides]({{ site.baseurl }}/downloads/Tangram22.pdf), [vi
 
 * 2022.07.06, Nonrelativistic calculations with FeynOnium, Vladyslav Shtabovenko, postdoc, Karlsruher Institut für Technologie, [slides]({{ site.baseurl }}/downloads/Vladyslav.pdf), [video record](https://youtu.be/IhyOeRByvQU)
 
+* 2022.07.08, Alpha and alpha cluster in nuclei, 赵鹏巍, 研究员, 北京大学, [slides]({{ site.baseurl }}/downloads/Talk@Tangram.pdf)
 
 
 
