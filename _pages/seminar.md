@@ -53,6 +53,9 @@ TU Darmstadt, Germany, [slides]({{ site.baseurl }}/downloads/Tangram22.pdf), [vi
 
 * 2022.06.28, 电子俘获致核激发实验研究, 郭松, 研究员, 近代物理研究所,[slides]({{ site.baseurl }}/downloads/guosong.pptx), [video record](https://youtu.be/fCb4626dbf8)
 
+* 2022.07.06, Nonrelativistic calculations with FeynOnium, Vladyslav Shtabovenko, postdoc, Karlsruher Institut für Technologie, [slides]({{ site.baseurl }}/downloads/Vladyslav.pdf), [video record](https://youtu.be/IhyOeRByvQU)
+
+
 
 
 
