@@ -57,7 +57,7 @@ TU Darmstadt, Germany, [slides]({{ site.baseurl }}/downloads/Tangram22.pdf), [vi
 
 * 2022.07.08, Alpha and alpha cluster in nuclei, 赵鹏巍, 研究员, 北京大学, [slides]({{ site.baseurl }}/downloads/Talk@Tangram.pdf)
 
-* 2022.07.28, Faddeev calculations of three-neutron systems, Souichi Ishikawa, Professor, Hosei University, [video record](https://youtu.be/E_JzTu88334)
+* 2022.07.28, Faddeev calculations of three-neutron systems, Souichi Ishikawa, Professor, Hosei University,[slides]({{ site.baseurl }}/downloads/2022_07_Tanthco_ishikawa_3n.pdf), [video record](https://youtu.be/E_JzTu88334)
 
 
 
