@@ -7,7 +7,12 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will take place on 2022/7/14.
+# Next group meeting will take place on 2022/9/20.
+
+# 2022/9/13
+* Location of the neutron dripline at fluorine and neon. [slides]({{ site.baseurl }}/downloads/2022.9.13.pdf), [slides]({{ site.baseurl }}/downloads/modelsdripline2.pdf)
+
+
 
 # 2022/6/30
 * Light composite particle emission in deuteron-induced reactions. [slides]({{ site.baseurl }}/downloads/LCP describe.pdf)
