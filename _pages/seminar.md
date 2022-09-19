@@ -7,6 +7,7 @@ permalink: /seminar/
 ---
 
 # Seminars
+* 2022.09.19，丰质子核奇异衰变和近垒奇特核反应, 林承键，研究员，中国原子能科学研究院, [slides]({{ site.baseurl }}/downloads/同济-CJLin.pdf)
 * 2022.09.16，Nuclear shapes, collective excitation and fission, 李志攀，教授，西南大学, [slides]({{ site.baseurl }}/downloads/Shape20220916-同济.pptx)
 * 2022.07.28, Faddeev calculations of three-neutron systems, Souichi Ishikawa, Professor, Hosei University,[slides]({{ site.baseurl }}/downloads/2022_07_Tanthco_ishikawa_3n.pdf), [video record](https://youtu.be/E_JzTu88334)
 * 2022.07.08, Alpha and alpha cluster in nuclei, 赵鹏巍, 研究员, 北京大学, [slides]({{ site.baseurl }}/downloads/Talk@Tangram.pdf)
