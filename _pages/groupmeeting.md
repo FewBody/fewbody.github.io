@@ -7,12 +7,13 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will take place on 2022/9/20.
+# Next group meeting will take place on 2022/9/27.
+
+# 2022/9/20
+* Systematic reduction of the proton-removal cross section in neutron-rich medium-mass nuclei. [slides]({{ site.baseurl }}/downloads/proton removal), [slides]({{ site.baseurl }}/downloads/Systematic reduction of the proton.pptx)
 
 # 2022/9/13
 * Location of the neutron dripline at fluorine and neon. [slides]({{ site.baseurl }}/downloads/2022.9.13.pdf), [slides]({{ site.baseurl }}/downloads/modelsdripline2.pdf)
-
-
 
 # 2022/6/30
 * Light composite particle emission in deuteron-induced reactions. [slides]({{ site.baseurl }}/downloads/LCP describe.pdf)
