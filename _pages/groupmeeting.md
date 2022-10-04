@@ -7,10 +7,13 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will take place on 2022/10/4.
+# Next group meeting will take place on 2022/10/18.
+
+# 2022/10/4
+* Two-neutron halo is unveiled in 29F. [slides]({{ site.baseurl }}/downloads/halo), [slides]({{ site.baseurl }}/downloads/sdf.pptx)
 
 # 2022/9/27
-* Surface localization of the dinuetron in 11Li [slides]({{ site.baseurl }}/downloads/2022.9.27.pdf), [slides]({{ site.baseurl }}/downloads/dineutron (1).pdf)
+* Surface localization of the dinuetron in 11Li. [slides]({{ site.baseurl }}/downloads/2022.9.27.pdf), [slides]({{ site.baseurl }}/downloads/dineutron (1).pdf)
 
 # 2022/9/20
 * Systematic reduction of the proton-removal cross section in neutron-rich medium-mass nuclei. [slides]({{ site.baseurl }}/downloads/2022.9.20.pdf), [slides]({{ site.baseurl }}/downloads/Systematic reduction of the proton.pptx)
