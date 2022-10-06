@@ -21,6 +21,13 @@
   email: 1853071@tongji.edu.cn
   number_educ: 0
   education1:
+  
+- name: Junzhe Liu
+  photo: liujunzhe.png
+  info: PhD student from Tongji U.
+  email: junzliu@126.com
+  number_educ: 0
+  education1:
 
 - name: Yingjie Wu
   photo: wuyingjie.jpeg
@@ -30,7 +37,7 @@
   education1: 2012-2016  B.Sc Henan Polytechnic University
   education2: 2020-present  MS  Central China Normal University
 
-- name:  Zhang Xiang
+- name:  Xiang Zhang
   photo: zhangxiang.jpeg
   info: Master student
   email: 875474176@qq.com
@@ -45,3 +52,11 @@
   number_educ: 2
   education1: 2017-2021 Henan Normal University
   education2: 2021-present Central China Normal University
+
+- name:  Jiale Zhou
+  photo: zhangxiang.jpg
+  info: Master student
+  email: 2548376654@qq.com
+  number_educ : 2
+  education1: 2018-2022 Nanchang University
+  education2: 2022-present Central china normal university

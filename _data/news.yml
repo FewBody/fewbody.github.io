@@ -13,7 +13,11 @@
 #   headline: "Koen wrote about his research <a href='https://epn.eps.org/wp-content/uploads/2021/04/EPN-52-2.pdf'>in EurophysicsNews</a> (page 12)."
 #
 
-#- data: 2022.10.01
-# headline: "Liu Junzhe will join us as a PhD student -- welcome Liu Junzhe!"
+- data: 2022.10.07
+ headline: "Liu Junzhe will join us as a PhD student -- welcome Liu Junzhe!"
+ 
+- data: 2022.10.07
+ headline: "Zhou Jiale will join us as a MS student -- welcome Zhou Jiale!"
+ 
 - date: 2021.09.20
   headline: "Liu Hao will join us as a PhD student -- welcome Liu Hao!"
