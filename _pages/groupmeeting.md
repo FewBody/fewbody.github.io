@@ -7,7 +7,10 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will take place on 2022/10/25.
+# Next group meeting will take place on 2022/10/31.
+
+# 2022/10/25
+* First observation of the four-proton unbound nucleus 18Mg. [slides]({{ site.baseurl }}/downloads/4protons_emitter.pdf)
 
 # 2022/10/18
 * Quenching of single-particle strength in A=15 nuclei. [slides]({{ site.baseurl }}/downloads/2022.10.18.pdf)
