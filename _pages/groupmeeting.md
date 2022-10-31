@@ -7,7 +7,10 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will take place on 2022/10/31.
+# Next group meeting will take place on 2022/11/8.
+
+# 2022/10/31
+* Probing the Z = 6 spin-orbit shell gap with (p,2p) quasi-free scattering reactions. [slides]({{ site.baseurl }}/downloads/2022.10.31.pdf), [slides]({{ site.baseurl }}/downloads/gourpmeeting1031.pdf)
 
 # 2022/10/25
 * First observation of the four-proton unbound nucleus 18Mg. [slides]({{ site.baseurl }}/downloads/4protons_emitter.pdf), [slides]({{ site.baseurl }}/downloads/mg18.pdf)
