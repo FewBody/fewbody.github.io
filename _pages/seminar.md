@@ -7,6 +7,7 @@ permalink: /seminar/
 ---
 
 # Seminars
+* 2022.11.03, Nuclear beta decay and electron capture in the origin of heavy elements, [slides]({{ site.baseurl }}/downloads/YifeiNiu@TongJi.pdf)
 * 2022.10.28, 弱束缚原子核6Li引起的反应机制和核结构研究, 张高龙, 教授, 北京航空航天大学, [slides]({{ site.baseurl }}/downloads/同济大学报告-zgl-1.pdf)
 * 2022.09.30, 三体核反应:转移反应、破裂反应和三核子反应, 庞丹阳，教授，北京航空航天大学, [slides]({{ site.baseurl }}/downloads/three-body-nuclear-reactions-Tongji-2022.pdf)
 * 2022.09.19, 丰质子核奇异衰变和近垒奇特核反应, 林承键，研究员，中国原子能科学研究院, [slides]({{ site.baseurl }}/downloads/同济-CJLin.pdf)
