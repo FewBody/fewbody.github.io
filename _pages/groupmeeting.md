@@ -7,7 +7,10 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will take place on 2022/11/8.
+# Next group meeting will take place on 2022/11/15.
+
+# 2022/11/08
+* Measurement of 19F(p, γ)20Ne reaction suggests CNO breakout in first stars. [slides]({{ site.baseurl }}/downloads/p-gamma), [slides]({{ site.baseurl }}/downloads/20Ne.pdf)
 
 # 2022/10/31
 * Probing the Z = 6 spin-orbit shell gap with (p,2p) quasi-free scattering reactions. [slides]({{ site.baseurl }}/downloads/2022.10.31.pdf), [slides]({{ site.baseurl }}/downloads/gourpmeeting1031.pdf)
