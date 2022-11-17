@@ -7,7 +7,7 @@ permalink: /seminar/
 ---
 
 # Seminars
-* 2022.11.17, Selected topics in experimental nuclear physics studies at Beihang, 孙保华，教授，北京航空航天大学, [slides]({{ site.baseurl }}/downloads/20221116-同济seminar.pdf)
+* 2022.11.17, Selected topics in experimental nuclear physics studies at Beihang, 孙保华，教授，北京航空航天大学, [slides]({{ site.baseurl }}/downloads/20221116-seminar.pdf)
 * 2022.11.10, 探索未知原子核——新核素合成和新元素实验研究进展, 张志远，研究员，中国科学院近代物理研究所, [slides]({{ site.baseurl }}/downloads/同济大学报告-张志远.pptx)
 * 2022.11.07, Recent progress in two-proton radioactivity, 王思敏，研究员，复旦大学, [slides]({{ site.baseurl }}/downloads/Simin_Tongji.pdf)
 * 2022.11.03, Nuclear beta decay and electron capture in the origin of heavy elements, 牛一斐, 教授, 兰州大学, [slides]({{ site.baseurl }}/downloads/YifeiNiu@TongJi.pdf)
