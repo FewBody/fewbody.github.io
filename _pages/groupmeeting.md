@@ -7,7 +7,13 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will take place on 2022/11/15.
+# Next group meeting will take place on 2022/11/29.
+
+# 2022/11/22
+* Deep underground laboratory measurement of 13C(α, n)16O in the Gamow windows of the s and i Processes. [slides]({{ site.baseurl }}/downloads/gamow-window.pdf), [slides]({{ site.baseurl }}/downloads/12C.pdf)
+
+# 2022/11/15
+* Quasifree neutron knockout from 54Ca corroborates arising N = 34 neutron magic number. [slides]({{ site.baseurl }}/downloads/p-gamma.pdf), [slides]({{ site.baseurl }}/downloads/20Ne.pdf)
 
 # 2022/11/08
 * Measurement of 19F(p, γ)20Ne reaction suggests CNO breakout in first stars. [slides]({{ site.baseurl }}/downloads/p-gamma.pdf), [slides]({{ site.baseurl }}/downloads/20Ne.pdf)
