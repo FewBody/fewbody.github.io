@@ -13,7 +13,7 @@ permalink: /groupmeeting/
 * Deep underground laboratory measurement of 13C(α, n)16O in the Gamow windows of the s and i Processes. [slides]({{ site.baseurl }}/downloads/gamow-window.pdf), [slides]({{ site.baseurl }}/downloads/12C.pdf)
 
 # 2022/11/15
-* Quasifree neutron knockout from 54Ca corroborates arising N = 34 neutron magic number. [slides]({{ site.baseurl }}/downloads/p-gamma.pdf), [slides]({{ site.baseurl }}/downloads/20Ne.pdf)
+* Quasifree neutron knockout from 54Ca corroborates arising N = 34 neutron magic number. [slides]({{ site.baseurl }}/downloads/document copy.pdf)
 
 # 2022/11/08
 * Measurement of 19F(p, γ)20Ne reaction suggests CNO breakout in first stars. [slides]({{ site.baseurl }}/downloads/p-gamma.pdf), [slides]({{ site.baseurl }}/downloads/20Ne.pdf)
