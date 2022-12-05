@@ -7,7 +7,10 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will take place on 2022/11/29.
+# Next group meeting will take place on 2022/12/06.
+
+# 2022/11/29
+* Dominance of Tensor Correlations in High-Momentum Nucleon Pairs Studied by (p, pd) Reaction. [slides]({{ site.baseurl }}/downloads/d1129.pdf)
 
 # 2022/11/22
 * Deep underground laboratory measurement of 13C(α, n)16O in the Gamow windows of the s and i Processes. [slides]({{ site.baseurl }}/downloads/gamow-window.pdf), [slides]({{ site.baseurl }}/downloads/12C.pdf)
