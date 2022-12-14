@@ -10,7 +10,7 @@ permalink: /groupmeeting/
 # Next group meeting will take place on 2022/12/20.
 
 # 2022/11/29
-* Synthesis of the Elements in Star. [slides]({{ site.baseurl }}/downloads/star.pdf), [slides]({{ site.baseurl }}/downloads/elementsinstar.pdf)
+* Synthesis of the Elements in Star. [slides]({{ site.baseurl }}/downloads/stars.pdf), [slides]({{ site.baseurl }}/downloads/elementsinstar.pdf)
 
 # 2022/11/29
 * Dominance of Tensor Correlations in High-Momentum Nucleon Pairs Studied by (p, pd) Reaction. [slides]({{ site.baseurl }}/downloads/d1129.pdf)
