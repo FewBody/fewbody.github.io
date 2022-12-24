@@ -7,7 +7,7 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will take place on 2022/12/20.
+# Next group meeting will take place on 2023/1/10.
 
 # 2022/11/29
 * Synthesis of the Elements in Star. [slides]({{ site.baseurl }}/downloads/stars.pdf), [slides]({{ site.baseurl }}/downloads/elementsinstar.pdf)
