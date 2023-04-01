@@ -15,7 +15,7 @@ permalink: /
 
 
 The Quantum Few-Body Dynamics Research Group was established in 2020 and 
-is affiliated with the Physics Science and Engineering School at Tongji University, 
+is affiliated with School of Physics Science and Engineering at Tongji University, 
 led by Professor Jin Lei. The group's research focuses on utilizing quantum 
 few-body models to study nuclear reaction processes, especially weakly bound nuclei induced reactions. 
 The group's theoretical work involves quantum scattering theory, 
