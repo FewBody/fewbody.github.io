@@ -1,7 +1,7 @@
 ---
-title: "Tangram Nuclear Theory Collaboration - Publications"
+title: "QFBD Research Group - Publications"
 layout: gridlay
-excerpt: "Tangram Nuclear Theory Collaboration -- Publications."
+excerpt: "QFBD Research Group -- Publications."
 sitemap: false
 permalink: /publications/
 ---

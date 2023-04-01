@@ -1,5 +1,5 @@
 ---
-title: "Tangram Nuclear Theory Collaboration - Opening"
+title: "QFBD Research Group - Opening"
 layout: textlay
 excerpt: "Opening"
 sitemap: false

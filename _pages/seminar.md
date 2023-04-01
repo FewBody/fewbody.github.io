@@ -1,5 +1,5 @@
 ---
-title: "Tangram Nuclear Theory Collaboration - Seminar"
+title: "QFBD Research Group - Seminar"
 layout: textlay
 excerpt: "Seminar"
 sitemap: false

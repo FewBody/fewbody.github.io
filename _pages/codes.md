@@ -1,7 +1,7 @@
 ---
-title: "Tangram Nuclear Theory Collaboration - Codes"
+title: "QFBD Research Group - Codes"
 layout: piclay
-excerpt: "Tangram Nuclear Theory Collaboration -- Codes"
+excerpt: "QFBD Research Group -- Codes"
 permalink: /codes/
 ---
 # codes

@@ -1,5 +1,5 @@
 ---
-title: "Tangram Nuclear Theory Collaboration - AOA"
+title: "QFBD Research Group - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

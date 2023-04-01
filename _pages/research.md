@@ -1,7 +1,7 @@
 ---
-title: "Tangram Nuclear Theory Collaboration - Research"
+title: "QFBD Research Group - Research"
 layout: textlay
-excerpt: "Tangram Nuclear Theory Collaboration -- Research"
+excerpt: "QFBD Research Group -- Research"
 sitemap: false
 permalink: /research/
 ---

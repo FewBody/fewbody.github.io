@@ -1,7 +1,7 @@
 ---
-title: "Tangram Nuclear Theory Collaboration"
+title: "QFBD Research Group"
 layout: homelay
-excerpt: "Tangram Nuclear Theory Collaboration"
+excerpt: "QFBD Research Group"
 sitemap: false
 permalink: /
 ---
@@ -11,7 +11,7 @@ permalink: /
   <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tanthco-01.png"  max-width="580px">
 </figure>
 
-**About Tanthco:**
+**About QFBD Research Group:**
 
 
 The Quantum Few-Body Dynamics Research Group was established in 2020 and 

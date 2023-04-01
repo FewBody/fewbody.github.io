@@ -1,7 +1,7 @@
 ---
-title: "Tangram Nuclear Theory Collaboration - Group Meeting"
+title: "QFBD Research Group - Group Meeting"
 layout: piclay
-excerpt: "Tangram Nuclear Theory Collaboration -- Group Meeting"
+excerpt: "QFBD Research Group -- Group Meeting"
 sitemap: false
 permalink: /groupmeeting/
 ---
