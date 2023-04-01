@@ -14,8 +14,13 @@ permalink: /
 **About Tanthco:**
 
 
-The Tangram Nuclear Theory Collaboration (Tanthco) was initiated by nuclear theory groups at Tongji University (Shanghai), Hehai University (Nanjing) and Central China Normal University (Wuhan) in China to promote collaboration, communication and education under the topics of theoretical development in nuclear structure and reaction physics. The name Tangram is inspired by an old polygon puzzle game to indicate the variety of collaborative possibilities of Tanthco in geographical locations, activities and research subjects. The current form of Tanthco consists of three programs, seminar forum, student meetup, and science workshop, hosting online events to promote multilateral collaboration and discussions among universities and institutes.
-
+The Quantum Few-Body Dynamics Research Group was established in 2020 and 
+is affiliated with the Physics Science and Engineering School at Tongji University, 
+led by Professor Jin Lei. The group's research focuses on utilizing quantum 
+few-body models to study nuclear reaction processes, especially weakly bound nuclei induced reactions. 
+The group's theoretical work involves quantum scattering theory, 
+quantum few-body models, Faddeev equations, Continuum-Discretized Coupled-Channels (CDCC), DWBA, 
+and the Ichimura-Austern-Vincent model.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -37,18 +42,6 @@ The Tangram Nuclear Theory Collaboration (Tanthco) was initiated by nuclear theo
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/PhysRevLett.123.jpeg" alt="Slide 2" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TBCM.jpeg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/CorrelationTable.jpeg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/He6.jpeg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/radius.jpeg" alt="Slide 6" />
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -61,58 +54,24 @@ The Tangram Nuclear Theory Collaboration (Tanthco) was initiated by nuclear theo
 </div>
 
 
-**Seminar Forum:**
+In previous work, the group used the quantum three-body IAV model to study 
+the breakup and fusion reactions of weakly bound nuclei. 
+Some of the group's representative works include
 
-The seminar forum is to organize online scientific talks focused on (but not limited to) recent theoretical development of nuclear structure and reaction physics. The forum invites experts from all of the world to share their knowledge and insights about their studies, and encourages discussions among speakers and listeners.
-
-**Student Meetup**
-
- The student meetup organizes regular online group learning sessions to create opportunities for students to learn state-of-the-art nuclear theory related subjects. The programs and learning subjects are organized by senior researchers. Students from different universities can meet online regularly during the self-learning sessions, guided by senior researchers, and are enrolled to participate in a series of  lectures during the program.
-
-**Science Workshop:**
-
- The science workshop is to promote collaborations among universities under the subject of nuclear theory, and hopes to bring brainstorming new ideas during the discussions and collaborations. Current activities include collaborative studies in few-body nuclear theories focused on its application to nuclear reactions.
-
-**More Voices, More Ears:**
-
- Tanthco encourages more universities and research groups to join or host scientific activities and is to create a lively communication environment among Chinese nuclear theorists. Tanthco welcomes new members to bring new ideas and activity possibilities to the collaboration.
+1. Jin Lei and Antonio M. Moro, ‘Unraveling the Reaction Mechanisms Leading to Partial Fusion of Weakly Bound Nuclei’, Phys. Rev. Lett. 123, 232501 (2019).
+2. Jin Lei and Antonio M. Moro, ‘Puzzle of Complete Fusion Suppression in Weakly Bound Nuclei: A Trojan Horse Effect?’, Phys. Rev. Lett. 122, 042503 (2019).
+3. Jin Lei and Antonio M. Moro, ‘Numerical assessment of post-prior equivalence for inclusive breakup reactions’, Phys. Rev. C 92, 061602(R) (2015). Editors’ Suggestion
+4. Rodrigo Navarro Pérez and Jin Lei, ‘Is the unusual near-threshold potential behavior in elastic scattering of weakly-bound nuclei a precision error?’, Physics Letters B 795, 200–205 (2019).
+5. A. Di Pietro, A.M. Moro, Jin Lei and R. de Diego, ‘Insights into the dynamics of breakup of the halo nucleus 11Be on a 64Zn target’, Physics Letters B 798, 134954 (2019).
+6. Jin Lei, L. Hlophe, Ch. Elster, A. Nogga, F. M. Nunes and D. R. Phillips, ‘Few-body universality in the deuteron- alpha system’, Phys. Rev. C 98, 051001(R) (2018).
+7. Jin Lei and Antonio M. Moro, ‘Post-prior equivalence for transfer reactions with complex potentials’, Phys. Rev. C 97, 011601(R) (2018).
 
 
 
-
-
-**Current Host Members:**
-
-* Chen Ji  
- Associate Professor  
- Email: <jichen@ccnu.edu.cn>   
- Key Laboratory of Quark and Lepton Physics  
- Central China Normal University  
- Research Interests: few-body nuclear theories, including studies of Efimov physics in cold atoms, halo effective field theory, nuclear polarization in muonic atoms, etc.
-
-
-* Jin Lei  
- Research Fellow  
- Email: <jinl@tongji.edu.cn>  
- School of Physics Science and Engineering  
- Tongji University  
- Research Interests: nuclear reaction theories.
-
-
-
-* Dong Bai    
-Associated Professor  
-Email: <dbai@hhu.edu.cn>   
-College of Science  
-Hohai University  
-Research Interests: nuclear cluster physics.
-
-
+The group plans to recruit one doctoral student, one master's student, and postdoctoral researchers every year. You can contact the group at jinl@tongji.edu.cn.
 
 We are grateful for funding from [Tongji University](https://en.tongji.edu.cn/index.htm) and [NSFC](http://www.nsfc.gov.cn).
 
 <figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ccnu.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hhu.jpeg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tongji.jpeg" style="width: 110px">
 </figure>
