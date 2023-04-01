@@ -8,7 +8,7 @@ permalink: /
 
 
 <figure class="fourth" style="text-align:left">
-  <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tanthco-01.png"  max-width="580px">
+  <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/QFBD.png"  max-width="580px">
 </figure>
 
 **About QFBD Research Group:**
