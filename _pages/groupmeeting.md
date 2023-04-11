@@ -11,7 +11,7 @@ permalink: /groupmeeting/
 
 # 2023/2/14~4/11
 * Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/ho_basis.pdf), [slides]({{ site.baseurl }}/downloads/ho1.pdf), [slides]({{ site.baseurl }}/downloads/ho2.pdf) 
-* Benchmark with Glauber model.
+* Benchmark with Glauber model. [slides]({{ site.baseurl }}/downloads/elasticscattering.pdf), [slides]({{ site.baseurl }}/downloads/benchmark2.pdf), [slides]({{ site.baseurl }}/downloads/benchmark3.pdf), [slides]({{ site.baseurl }}/downloads/benchmark.pdf), [slides]({{ site.baseurl }}/downloads/reference.pdf)
 * Surface influence.
 * Double folding potential.
 * Homework. [slides]({{ site.baseurl }}/downloads/hw.pdf), [slides]({{ site.baseurl }}/downloads/hw2.pdf), [slides]({{ site.baseurl }}/downloads/hw3.pdf) 
