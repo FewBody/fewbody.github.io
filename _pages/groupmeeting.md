@@ -9,6 +9,13 @@ permalink: /groupmeeting/
 # Group Meeting
 # See you next term.
 
+# 2023/2/14~4/11
+* Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/ho_basis.pdf), [slides]({{ site.baseurl }}/downloads/ho1.pdf), [slides]({{ site.baseurl }}/downloads/ho2.pdf) 
+* Benchmark with Glauber model.
+* Surface influence.
+* Double folding potential.
+* Homework. [slides]({{ site.baseurl }}/downloads/hw.pdf), [slides]({{ site.baseurl }}/downloads/hw2.pdf), [slides]({{ site.baseurl }}/downloads/hw3.pdf) 
+
 # 2022/11/29
 * Synthesis of the Elements in Star. [slides]({{ site.baseurl }}/downloads/stars.pdf), [slides]({{ site.baseurl }}/downloads/elementsinstar.pdf)
 
