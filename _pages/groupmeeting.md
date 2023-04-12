@@ -10,11 +10,13 @@ permalink: /groupmeeting/
 # Next Group Meeting will take place on 4/14.
 
 # 2023/2/14~4/11
-* Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/ho_basis.pdf), [slides]({{ site.baseurl }}/downloads/ho1.pdf), [slides]({{ site.baseurl }}/downloads/ho2.pdf) 
+* Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/ho_basis.pdf), [slides]({{ site.baseurl }}/downloads/ho1.pdf), [slides]({{ site.baseurl }}/downloads/ho2.pdf) 
 * Benchmark with Glauber model. [slides]({{ site.baseurl }}/downloads/elasticscattering.pdf), [slides]({{ site.baseurl }}/downloads/benchmark2.pdf), [slides]({{ site.baseurl }}/downloads/benchmark3.pdf), [slides]({{ site.baseurl }}/downloads/benchmark.pdf), [slides]({{ site.baseurl }}/downloads/reference.pdf)
-* Surface influence.
-* Double folding potential.
+* Researching on semi-classical surface approximation. [slides]({{ site.baseurl }}/downloads/2023.2.14.pdf), [slides]({{ site.baseurl }}/downloads/2023.2.21.pdf), [slides]({{ site.baseurl }}/downloads/2023.2.28.pdf), [slides]({{ site.baseurl }}/downloads/2023.3.7.pdf), [slides]({{ site.baseurl }}/downloads/2023.3.14.pdf)
+* Single folding potential. [slides]({{ site.baseurl }}/downloads/组会.pptx), [slides]({{ site.baseurl }}/downloads/组会2.pptx), [slides]({{ site.baseurl }}/downloads/组会3.pptx), [slides]({{ site.baseurl }}/downloads/组会4.pptx), [slides]({{ site.baseurl }}/downloads/组会6.pptx)
 * Homework. [slides]({{ site.baseurl }}/downloads/hw.pdf), [slides]({{ site.baseurl }}/downloads/hw2.pdf), [slides]({{ site.baseurl }}/downloads/hw3.pdf) 
+* 6j symbol. [slides]({{ site.baseurl }}/downloads/notes.pdf)
+* Weakly bound nucleus. [slides]({{ site.baseurl }}/downloads/weakbound1.pdf), [slides]({{ site.baseurl }}/downloads/weakbound2.pdf)
 
 # 2022/11/29
 * Synthesis of the Elements in Star. [slides]({{ site.baseurl }}/downloads/stars.pdf), [slides]({{ site.baseurl }}/downloads/elementsinstar.pdf)
