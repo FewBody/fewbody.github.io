@@ -7,7 +7,10 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next Group Meeting will take place on 4/14.
+# Next Group Meeting will take place on 4/18.
+
+# 2022/4/14
+* Reaction channel contributions to the triton + 208Pb optical potential. [slides]({{ site.baseurl }}/downloads/DPP), [slides]({{ site.baseurl }}/downloads/DPP1.pdf)
 
 # 2023/2/14~4/11
 * Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/ho_basis.pdf), [slides]({{ site.baseurl }}/downloads/ho1.pdf), [slides]({{ site.baseurl }}/downloads/ho2.pdf) 
