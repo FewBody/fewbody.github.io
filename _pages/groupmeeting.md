@@ -7,7 +7,11 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next Group Meeting will take place on 4/18.
+# Next Group Meeting will take place on 4/25.
+
+# 2022/4/18
+* Fusion reactions in collisions of neutron halo nuclei with heavy targets. [slides]({{ site.baseurl }}/downloads/it_pre.pdf), [slides]({{ site.baseurl }}/downloads/2023.4.18.pdf), [slides]({{ site.baseurl }}/downloads/77.pdf)
+* Weakly bound nucleus. [slides]({{ site.baseurl }}/downloads/weakbound3.pdf)
 
 # 2022/4/14
 * Reaction channel contributions to the triton + 208Pb optical potential. [slides]({{ site.baseurl }}/downloads/DPP), [slides]({{ site.baseurl }}/downloads/DPP1.pdf)
