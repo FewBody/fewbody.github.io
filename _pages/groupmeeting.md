@@ -7,11 +7,14 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next Group Meeting will take place on 5/9.
+# Next Group Meeting will take place on 5/23.
+
+# 2022/5/9
+Investigating neutron transfer in the 6Li+ 124Sn system. [slides]({{ site.baseurl }}/downloads/CRC.pdf), [slides]({{ site.baseurl }}/downloads/crcresults.pdf), [slides]({{ site.baseurl }}/downloads/crc1.pdf)
 
 # 2022/4/25
 * Homework. [slides]({{ site.baseurl }}/downloads/npbound2.pdf)
-
+* Fusion reactions in collisions of neutron halo nuclei with heavy targets. [slides]({{ site.baseurl }}/downloads/it_pre.pdf), [slides]({{ site.baseurl }}/downloads/2023.4.18.pdf), [slides]({{ site.baseurl }}/downloads/77.pdf)
 
 # 2022/4/18
 * Fusion reactions in collisions of neutron halo nuclei with heavy targets. [slides]({{ site.baseurl }}/downloads/it_pre.pdf), [slides]({{ site.baseurl }}/downloads/2023.4.18.pdf), [slides]({{ site.baseurl }}/downloads/77.pdf)
