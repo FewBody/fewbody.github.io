@@ -7,6 +7,7 @@ permalink: /seminar/
 ---
 
 # Seminars
+* 2023.05.08, 中低能放射性束破裂反应实验研究, 杨彦云, 研究员, 中国科学院近代物理研究所, [slides]({{ site.baseurl }}/downloads/杨彦云同济大学2023.pptx)
 * 2023.04.27, 基于集团敲出反应研究原子核体系的集团结构, 杨再宏, 助理教授, 北京大学, [slides]({{ site.baseurl }}/downloads/20230425-同济大学报告-yang.pdf)
 * 2023.04.27, 利用氢靶开展的敲出反应机制研究和丰中子Ca区的壳演化研究, 刘红娜, 研究员, 北京师范大学, [slides]({{ site.baseurl }}/downloads/同济大学-学术报告-v2.pdf)
 * 2022.11.25, 协变密度泛函理论对原子核电磁性质的研究, 李剑，教授，吉林大学, [slides]({{ site.baseurl }}/downloads/协变密度泛函理论对原子核电磁性质的描述及相应类氢离子FNS效应的研究-jinlei.pptx)
