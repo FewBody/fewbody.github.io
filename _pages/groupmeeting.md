@@ -7,10 +7,14 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next Group Meeting will take place on 5/23.
+# Next Group Meeting will take place on 6/7.
 
 # 2022/5/9
-Investigating neutron transfer in the 6Li+ 124Sn system. [slides]({{ site.baseurl }}/downloads/CRC.pdf), [slides]({{ site.baseurl }}/downloads/crcresults.pdf), [slides]({{ site.baseurl }}/downloads/crc1.pdf)
+* Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/20230523.pdf)
+* Notes about the quantum mechanics. [slides]({{ site.baseurl }}/downloads/QMnotes.pdf)
+
+# 2022/5/9
+* Investigating neutron transfer in the 6Li+ 124Sn system. [slides]({{ site.baseurl }}/downloads/CRC.pdf), [slides]({{ site.baseurl }}/downloads/crcresults.pdf), [slides]({{ site.baseurl }}/downloads/crc1.pdf)
 
 # 2022/4/25
 * Homework. [slides]({{ site.baseurl }}/downloads/npbound2.pdf)
