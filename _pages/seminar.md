@@ -7,6 +7,8 @@ permalink: /seminar/
 ---
 
 # Seminars
+* 2023.05.25, 滴线原子核中的同位旋对称性破缺, 李建国, 特别研究助理, 中国科学院近代物理研究所, [slides]({{ site.baseurl }}/downloads/同济大学-李健国-2023-05-23.pdf)
+* 2023.05.25, 从手征核力到核物理第一性原理计算, 许甫荣, 教授, 北京大学, [slides]({{ site.baseurl }}/downloads/同济2023_手征核力_第一性原理.pptx)
 * 2023.05.08, 中低能放射性束破裂反应实验研究, 杨彦云, 研究员, 中国科学院近代物理研究所, [slides]({{ site.baseurl }}/downloads/杨彦云同济大学2023.pptx)
 * 2023.04.27, 基于集团敲出反应研究原子核体系的集团结构, 杨再宏, 助理教授, 北京大学, [slides]({{ site.baseurl }}/downloads/20230425-同济大学报告-yang.pdf)
 * 2023.04.27, 利用氢靶开展的敲出反应机制研究和丰中子Ca区的壳演化研究, 刘红娜, 研究员, 北京师范大学, [slides]({{ site.baseurl }}/downloads/同济大学-学术报告-v2.pdf)
