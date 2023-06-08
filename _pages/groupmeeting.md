@@ -7,7 +7,10 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next Group Meeting will take place on 6/7.
+# Next Group Meeting will take place on 6/13.
+
+# 2022/6/6
+
 
 # 2022/5/9
 * Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/20230523.pdf)
