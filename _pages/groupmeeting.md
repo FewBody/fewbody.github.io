@@ -10,7 +10,7 @@ permalink: /groupmeeting/
 # Next Group Meeting will take place on 6/13.
 
 # 2022/6/6
-
+* Configuration and use of neovim. [slides]({{ site.baseurl }}/downloads/Neovim.pdf)
 
 # 2022/5/9
 * Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/20230523.pdf)
