@@ -7,7 +7,7 @@ permalink: /seminar/
 ---
 
 # Seminars
-* 2023.06.07, 原子核的简单规律, 赵玉民, 教授, 上海交通大学
+* 2023.06.07, 原子核的简单规律, 赵玉民, 教授, 上海交通大学, [slides]({{ site.baseurl }}/downloads/原子核的简单规律--赵玉民.pptx)
 * 2023.06.07, 不稳定原子核的奇特结构与直接反应机制研究, 王建松, 教授, 湖州师范学院学, [slides]({{ site.baseurl }}/downloads/不稳定原子核的奇特结构与直接反应机制研究.pdf)
 * 2023.05.25, Skyrme Hartree-Fock理论对Ξ-超核性质的研究, 周先荣, 教授, 华东师范大学, [slides]({{ site.baseurl }}/downloads/Xi超核.pptx)
 * 2023.05.25, 滴线原子核中的同位旋对称性破缺, 李建国, 特别研究助理, 中国科学院近代物理研究所, [slides]({{ site.baseurl }}/downloads/同济大学-李健国-2023-05-23.pdf)
