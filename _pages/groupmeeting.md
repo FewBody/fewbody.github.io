@@ -9,6 +9,15 @@ permalink: /groupmeeting/
 # Group Meeting
 # Next Group Meeting will take place on 6/13.
 
+# 2022/6/22
+* Mechanisms in Proton-Induced Nucleon Removal at ∼100 MeV=Nucleon. [slides]({{ site.baseurl }}/downloads/DWIA_and_QTC.pdf), [slides]({{ site.baseurl }}/downloads/results.pdf)
+
+# 2022/6/20
+* Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/20230620.pdf)
+
+# 2022/6/13
+* Weakly bound nucleus. [slides]({{ site.baseurl }}/downloads/weakbound4.pdf)
+
 # 2022/6/6
 * Configuration and use of neovim. [slides]({{ site.baseurl }}/downloads/Neovim.pdf)
 
