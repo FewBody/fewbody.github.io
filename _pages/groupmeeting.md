@@ -7,7 +7,10 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next Group Meeting will take place on 6/13.
+# Next Group Meeting will take place on 7/5.
+
+# 2022/6/27
+* Rapid convergence of the Weinberg expansion of the deuteron stripping amplitude. [slides]({{ site.baseurl }}/downloads/2023.6.27.pdf), [slides]({{ site.baseurl }}/downloads/20230627.pdf)
 
 # 2022/6/22
 * Mechanisms in Proton-Induced Nucleon Removal at ∼100 MeV=Nucleon. [slides]({{ site.baseurl }}/downloads/DWIA_and_QTC.pdf), [slides]({{ site.baseurl }}/downloads/results.pdf), [slides]({{ site.baseurl }}/downloads/DWIAandQTC.pdf)
