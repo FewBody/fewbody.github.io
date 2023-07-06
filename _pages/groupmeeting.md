@@ -7,7 +7,11 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next Group Meeting will take place on 7/5.
+# See you next term.
+
+# 2022/6/27
+* Continuum Discretized Coupled-Channels Method as a Truncation of a Connected-Kernel Formulation of Three-Body Problems. [slides]({{ site.baseurl }}/downloads/cdcc.pdf)
+* Three-body reaction theory in a model space. [slides]({{ site.baseurl }}/downloads/Faddeev_CDCC)
 
 # 2022/6/27
 * Rapid convergence of the Weinberg expansion of the deuteron stripping amplitude. [slides]({{ site.baseurl }}/downloads/2023.6.27.pdf), [slides]({{ site.baseurl }}/downloads/20230627.pdf)
