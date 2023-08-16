@@ -54,6 +54,7 @@ permalink: /publications/
 
 
 ## Full List of publications
+<em>Hao Liu, Shinsuke Nakayama, Jin Lei, and Zhongzhou Ren</em><br /> Comparison of Ichimura-Austern-Vincent and Glauber models for the deuteron-induced inclusive breakup reaction in light and medium-mass nuclei <br /> <a href="https://doi.org/10.1103/PhysRevC.108.014617"> Phys. Rev. C 108, 014617</a>
 
 {% for publi in site.data.publist %}
 
