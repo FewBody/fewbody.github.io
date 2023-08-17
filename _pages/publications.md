@@ -14,21 +14,21 @@ permalink: /publications/
 (For a full list of publications see [below](#full-list-of-publications) 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ Testing the validity of the surface approximation for reactions induced by weakly bound nuclei with a fully quantum-mechanical model }}</pubtit>
+  <pubtit>Testing the validity of the surface approximation for reactions induced by weakly bound nuclei with a fully quantum-mechanical model</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/medium.png" class="img-responsive" width="33%" style="float: left" />
-  <p>{{We examine the validity of surface approximation for breakup reactions using a fully quantum-mechanical model proposed by Ichimura, Austern, and Vincent (IAV). Analogous to the semiclassical picture, we introduce radial cut-offs to scattering waves in the IAV framework, which we refer to as IAV-cut. Systematic calculations are conducted for nonelastic breakup reactions induced by 6Li and deuterons at various incident energies. A comparison between the results obtained from IAV and IAV-cut is performed. The excellent agreement observed between IAV and IAV-cut in 6Li induced reactions, regardless of incident energy and target nuclei, signifies their insensitivity to the inner part of the scattering wave function, thus providing validation for the semiclassical picture. However, for deuteron induced breakup reactions, the IAV-cut results exhibit a suppression in the cross section, suggesting a strong dependence on the interior wave functions. This suppression is further enhanced as the incident energy increases. }}</p>
-  <p><em>{{Junzhe Liu, Jin Lei, and Zhongzhou Ren}}</em></p>
-  <p><strong><a href="{{ https://doi.org/10.1103/PhysRevC.108.024606 }}">{{ Physical Review C 108, 024606 (2023) }}</a></strong></p>
+  <p>We examine the validity of surface approximation for breakup reactions using a fully quantum-mechanical model proposed by Ichimura, Austern, and Vincent (IAV). Analogous to the semiclassical picture, we introduce radial cut-offs to scattering waves in the IAV framework, which we refer to as IAV-cut. Systematic calculations are conducted for nonelastic breakup reactions induced by 6Li and deuterons at various incident energies. A comparison between the results obtained from IAV and IAV-cut is performed. The excellent agreement observed between IAV and IAV-cut in 6Li induced reactions, regardless of incident energy and target nuclei, signifies their insensitivity to the inner part of the scattering wave function, thus providing validation for the semiclassical picture. However, for deuteron induced breakup reactions, the IAV-cut results exhibit a suppression in the cross section, suggesting a strong dependence on the interior wave functions. This suppression is further enhanced as the incident energy increases.</p>
+  <p><em>Junzhe Liu, Jin Lei, and Zhongzhou Ren</em></p>
+  <p><strong><a href="{{ https://doi.org/10.1103/PhysRevC.108.024606 }}">{{ Physical Review C 108, 024606 (2023)</a></strong></p>
  </div>
 </div>
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ Comparison of Ichimura-Austern-Vincent and Glauber models for the deuteron-induced inclusive breakup reaction in light and medium-mass nuclei }}</pubtit>
+  <pubtit>Comparison of Ichimura-Austern-Vincent and Glauber models for the deuteron-induced inclusive breakup reaction in light and medium-mass nuclei </pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/second.png" class="img-responsive" width="33%" style="float: left" />
-  <p>{{This study focuses on the deuteron-induced inclusive breakup reaction and investigates the (d,pX)and (d,nX) channels for light and medium mass nuclei. To study the double differential cross section of nonelastic breakup, we employed the models of Ichimura, Austern, and Vincent (IAV) [Phys. Rev. C 32, 431 (1985)] and the Glauber model with the quantum S matrix [Phys. Rev. C 80, 014604 (2009)], and compared the results for various reaction systems. Our analysis indicates that the Glauber model combined with the quantum S matrix yields good agreement with the IAV model in predicting the spectra of the deuteron-induced inclusive breakup cross section. Moreover, both models accurately predict the experimental data of light and medium mass targets. }}</p>
-  <p><em>{{Hao Liu, Shinsuke Nakayama, Jin Lei, and Zhongzhou Ren}}</em></p>
-  <p><strong><a href="{{ https://doi.org/10.1103/PhysRevC.108.014617 }}">{{ Physical Review C 108, 014617 (2023) }}</a></strong></p>
+  <p>This study focuses on the deuteron-induced inclusive breakup reaction and investigates the (d,pX)and (d,nX) channels for light and medium mass nuclei. To study the double differential cross section of nonelastic breakup, we employed the models of Ichimura, Austern, and Vincent (IAV) [Phys. Rev. C 32, 431 (1985)] and the Glauber model with the quantum S matrix [Phys. Rev. C 80, 014604 (2009)], and compared the results for various reaction systems. Our analysis indicates that the Glauber model combined with the quantum S matrix yields good agreement with the IAV model in predicting the spectra of the deuteron-induced inclusive breakup cross section. Moreover, both models accurately predict the experimental data of light and medium mass targets. </p>
+  <p><em>Hao Liu, Shinsuke Nakayama, Jin Lei, and Zhongzhou Ren</em></p>
+  <p><strong><a href="https://doi.org/10.1103/PhysRevC.108.014617">Physical Review C 108, 014617 (2023)</a></strong></p>
  </div>
 </div>
 {% assign number_printed = 0 %}
