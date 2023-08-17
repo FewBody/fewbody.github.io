@@ -25,7 +25,7 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>Comparison of Ichimura-Austern-Vincent and Glauber models for the deuteron-induced inclusive breakup reaction in light and medium-mass nuclei </pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/second.png" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/second.png" class="img-responsive" width="40%" style="float: left" />
   <p>This study focuses on the deuteron-induced inclusive breakup reaction and investigates the (d,pX)and (d,nX) channels for light and medium mass nuclei. To study the double differential cross section of nonelastic breakup, we employed the models of Ichimura, Austern, and Vincent (IAV) [Phys. Rev. C 32, 431 (1985)] and the Glauber model with the quantum S matrix [Phys. Rev. C 80, 014604 (2009)], and compared the results for various reaction systems. Our analysis indicates that the Glauber model combined with the quantum S matrix yields good agreement with the IAV model in predicting the spectra of the deuteron-induced inclusive breakup cross section. Moreover, both models accurately predict the experimental data of light and medium mass targets. </p>
   <p><em>Hao Liu, Shinsuke Nakayama, Jin Lei, and Zhongzhou Ren</em></p>
   <p><strong><a href="https://doi.org/10.1103/PhysRevC.108.014617">Physical Review C 108, 014617 (2023)</a></strong></p>
@@ -44,7 +44,7 @@ permalink: /publications/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ Comparison of Ichimura-Austern-Vincent and Glauber models for the deuteron-induced inclusive breakup reaction in light and medium-mass nuclei }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/second.png" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/second.png" class="img-responsive" width="40%" style="float: left" />
   <p>{{This study focuses on the deuteron-induced inclusive breakup reaction and investigates the (d,pX)and (d,nX) channels for light and medium mass nuclei. To study the double differential cross section of nonelastic breakup, we employed the models of Ichimura, Austern, and Vincent (IAV) [Phys. Rev. C 32, 431 (1985)] and the Glauber model with the quantum S matrix [Phys. Rev. C 80, 014604 (2009)], and compared the results for various reaction systems. Our analysis indicates that the Glauber model combined with the quantum S matrix yields good agreement with the IAV model in predicting the spectra of the deuteron-induced inclusive breakup cross section. Moreover, both models accurately predict the experimental data of light and medium mass targets. }}</p>
   <p><em>{{Hao Liu, Shinsuke Nakayama, Jin Lei, and Zhongzhou Ren}}</em></p>
   <p><strong><a href="{{ https://doi.org/10.1103/PhysRevC.108.014617 }}">{{ Physical Review C 108, 014617 (2023) }}</a></strong></p>
@@ -71,7 +71,8 @@ permalink: /publications/
 
 
 
-## Full List of publications
+
+## <br /> Full List of publications
 <em>Junzhe Liu, Jin Lei, and Zhongzhou Ren</em><br /> Testing the validity of the surface approximation for reactions induced by weakly bound nuclei with a fully quantum-mechanical model <br /> <a href="https://doi.org/10.1103/PhysRevC.108.024606"> Phys. Rev. C 108, 024606 (2023)</a>
 
 <em>Hao Liu, Shinsuke Nakayama, Jin Lei, and Zhongzhou Ren</em><br /> Comparison of Ichimura-Austern-Vincent and Glauber models for the deuteron-induced inclusive breakup reaction in light and medium-mass nuclei <br /> <a href="https://doi.org/10.1103/PhysRevC.108.014617"> Phys. Rev. C 108, 014617 (2023)</a>
