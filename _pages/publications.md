@@ -70,8 +70,8 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-
-
+<br />
+<br />
 ## <br /> Full List of publications
 <em>Junzhe Liu, Jin Lei, and Zhongzhou Ren</em><br /> Testing the validity of the surface approximation for reactions induced by weakly bound nuclei with a fully quantum-mechanical model <br /> <a href="https://doi.org/10.1103/PhysRevC.108.024606"> Phys. Rev. C 108, 024606 (2023)</a>
 
