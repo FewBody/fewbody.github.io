@@ -9,7 +9,12 @@ permalink: /groupmeeting/
 # Group Meeting
 # See you next term.
 
-# 2022/6/27
+# 2022/7/11~8/29
+* Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/电磁跃迁理论.pdf), [slides]({{ site.baseurl }}/downloads/THO和modified numerov的波函数match.pdf)
+* The influence caused by initial wave. [slides]({{ site.baseurl }}/downloads/initial wavefunction), [slides]({{ site.baseurl }}/downloads/surface approximation)
+* Simple Application and Basic Commands of Bash Script. [slides]({{ site.baseurl }}/downloads/bash)
+
+# 2022/7/5
 * Continuum Discretized Coupled-Channels Method as a Truncation of a Connected-Kernel Formulation of Three-Body Problems. [slides]({{ site.baseurl }}/downloads/cdcc.pdf)
 * Three-body reaction theory in a model space. [slides]({{ site.baseurl }}/downloads/Faddeev_CDCC)
 
