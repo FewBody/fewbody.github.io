@@ -9,46 +9,46 @@ permalink: /groupmeeting/
 # Group Meeting
 # See you next term.
 
-# 2022/7/11~8/29
+# 2023/7/11~8/29
 * Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/电磁跃迁理论.pdf), [slides]({{ site.baseurl }}/downloads/THO和modified numerov的波函数match.pdf)
 * The influence caused by initial wave. [slides]({{ site.baseurl }}/downloads/initial wavefunction), [slides]({{ site.baseurl }}/downloads/surface approximation)
 * Simple Application and Basic Commands of Bash Script. [slides]({{ site.baseurl }}/downloads/bash)
 
-# 2022/7/5
+# 2023/7/5
 * Continuum Discretized Coupled-Channels Method as a Truncation of a Connected-Kernel Formulation of Three-Body Problems. [slides]({{ site.baseurl }}/downloads/cdcc.pdf)
 * Three-body reaction theory in a model space. [slides]({{ site.baseurl }}/downloads/Faddeev_CDCC)
 
-# 2022/6/27
+# 2023/6/27
 * Rapid convergence of the Weinberg expansion of the deuteron stripping amplitude. [slides]({{ site.baseurl }}/downloads/2023.6.27.pdf), [slides]({{ site.baseurl }}/downloads/20230627.pdf)
 
-# 2022/6/22
+# 2023/6/22
 * Mechanisms in Proton-Induced Nucleon Removal at ∼100 MeV=Nucleon. [slides]({{ site.baseurl }}/downloads/DWIA_and_QTC.pdf), [slides]({{ site.baseurl }}/downloads/results.pdf), [slides]({{ site.baseurl }}/downloads/DWIAandQTC.pdf)
 
-# 2022/6/20
+# 2023/6/20
 * Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/20230620.pdf)
 
-# 2022/6/13
+# 2023/6/13
 * Weakly bound nucleus. [slides]({{ site.baseurl }}/downloads/weakbound4.pdf)
 
-# 2022/6/6
+# 2023/6/6
 * Configuration and use of neovim. [slides]({{ site.baseurl }}/downloads/Neovim.pdf)
 
-# 2022/5/9
+# 2023/5/9
 * Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/20230523.pdf)
 * Notes about the quantum mechanics. [slides]({{ site.baseurl }}/downloads/QMnotes.pdf)
 
-# 2022/5/9
+# 2023/5/9
 * Investigating neutron transfer in the 6Li+ 124Sn system. [slides]({{ site.baseurl }}/downloads/CRC.pdf), [slides]({{ site.baseurl }}/downloads/crcresults.pdf), [slides]({{ site.baseurl }}/downloads/crc1.pdf)
 
-# 2022/4/25
+# 2023/4/25
 * Homework. [slides]({{ site.baseurl }}/downloads/npbound2.pdf)
 * Fusion reactions in collisions of neutron halo nuclei with heavy targets. [slides]({{ site.baseurl }}/downloads/it_pre.pdf), [slides]({{ site.baseurl }}/downloads/2023.4.18.pdf), [slides]({{ site.baseurl }}/downloads/77.pdf)
 
-# 2022/4/18
+# 2023/4/18
 * Fusion reactions in collisions of neutron halo nuclei with heavy targets. [slides]({{ site.baseurl }}/downloads/it_pre.pdf), [slides]({{ site.baseurl }}/downloads/2023.4.18.pdf), [slides]({{ site.baseurl }}/downloads/77.pdf)
 * Weakly bound nucleus. [slides]({{ site.baseurl }}/downloads/weakbound3.pdf)
 
-# 2022/4/14
+# 2023/4/14
 * Reaction channel contributions to the triton + 208Pb optical potential. [slides]({{ site.baseurl }}/downloads/DPP), [slides]({{ site.baseurl }}/downloads/DPP1.pdf)
 
 # 2023/2/14~4/11
