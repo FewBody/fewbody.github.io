@@ -7,7 +7,7 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will hold on 2023/9/19.
+# Next group meeting will be held on 2023/9/19.
 # 2023/9/5
 * The influence caused by initial wave. [slides]({{ site.baseurl }}/downloads/initial wavefunction2)
 * Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/电磁跃迁理论.pdf), [slides]({{ site.baseurl }}/downloads/20230905.pdf)
