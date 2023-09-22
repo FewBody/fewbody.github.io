@@ -7,10 +7,15 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will be held on 2023/9/19.
+# Next group meeting will be held on 2023/9/26.
+# 2023/9/19
+* Experiment data fitting. [slides]({{ site.baseurl }}/downloads/Indian experiment)
+* Efficient emulators for scattering using eigenvector continuation. [slides]({{ site.baseurl }}/downloads/2023.9.19.pdf), [slides]({{ site.baseurl }}/downloads/9 19 report.pdf)
+
+
 # 2023/9/5
 * The influence caused by initial wave. [slides]({{ site.baseurl }}/downloads/initial wavefunction2)
-* Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/电磁跃迁理论.pdf), [slides]({{ site.baseurl }}/downloads/20230905.pdf)
+* Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/20230905.pdf)
 
 # 2023/7/11~8/29
 * Transformed Harmonic oscillator. [slides]({{ site.baseurl }}/downloads/电磁跃迁理论.pdf), [slides]({{ site.baseurl }}/downloads/THO和modified numerov的波函数match.pdf)
