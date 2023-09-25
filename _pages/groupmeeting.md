@@ -9,7 +9,7 @@ permalink: /groupmeeting/
 # Group Meeting
 # Next group meeting will be held on 2023/9/26.
 # 2023/9/19
-* Experiment data fitting. [slides]({{ site.baseurl }}/downloads/Indian experiment)
+* Experiment data fitting. [slides]({{ site.baseurl }}/downloads/Indian experiment.pdf)
 * Efficient emulators for scattering using eigenvector continuation. [slides]({{ site.baseurl }}/downloads/2023.9.19.pdf), [slides]({{ site.baseurl }}/downloads/9 19 report.pdf)
 
 
