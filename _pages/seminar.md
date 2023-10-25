@@ -7,6 +7,7 @@ permalink: /seminar/
 ---
 
 # Seminars
+* 2023.10.25, Modeling neutrinoless double-beta decay with operators from chiral effective field theory, 尧江明, 教授, 中山大学, [slides]({{ site.baseurl }}/downloads/ChiralEFT_for_NLDBD_Tongji.pdf)
 * 2023.09.07, 基于(p, pN)单核子移除反应的原子核结构研究, 孙叶磊, 副教授, 北京航空航天大学
 * 2023.08.21, Isospin dynamics in heavy ion reactions, 肖志刚, 教授, 清华大学
 * 2023.06.20, 高频引力波天文学简介, 范锡龙, 教授, 武汉大学, [slides]({{ site.baseurl }}/downloads/高频引力波天文学_2023_06.pdf)

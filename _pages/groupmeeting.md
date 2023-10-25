@@ -7,7 +7,27 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will be held on 2023/9/26.
+# Next group meeting will be held on 2023/10/31.
+
+# 2023/10.24
+* The Theory of Alpha Decay. [slides]({{ site.baseurl }}/downloads/20231024.pdf)
+* Observables calculation. [slides]({{ site.baseurl }}/downloads/cross section3.pdf)
+
+# 2023/10/17
+* Alpha decay theory. [slides]({{ site.baseurl }}/downloads/20231017.pdf)
+* Observables calculation. [slides]({{ site.baseurl }}/downloads/cross section2.pdf)
+* Benchmark between CDCC and Faddeev method. [slides]({{ site.baseurl }}/downloads/2023.10.17.pdf)
+
+# 2023/10/10
+* Git and Github. [slides]({{ site.baseurl }}/downloads/20231010.pdf)
+* Pseudo state method used in the IAV. [slides]({{ site.baseurl }}/downloads/2023.10.10.pdf)
+* Calculations of three-body observables in 8B breakup. [slides]({{ site.baseurl }}/downloads/observable.pdf), [slides]({{ site.baseurl }}/downloads/cross section.pdf)
+
+# 2023/9/26
+* Experiment data fitting. [slides]({{ site.baseurl }}/downloads/Indian experiment2.pdf)
+* Resonance phenomena: from compound nucleus decay to proton radioactivity. [slides]({{ site.baseurl }}/downloads/20230926.pdf)
+* Bin state and pseudo state methods. [slides]({{ site.baseurl }}/downloads/2023.9.26.pdf)
+
 # 2023/9/19
 * Experiment data fitting. [slides]({{ site.baseurl }}/downloads/Indian experiment.pdf)
 * Efficient emulators for scattering using eigenvector continuation. [slides]({{ site.baseurl }}/downloads/2023.9.19.pdf), [slides]({{ site.baseurl }}/downloads/9 19 report.pdf)
