@@ -7,7 +7,7 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will be held on 2023/10/31.
+# Next group meeting will be held on 2023/11/28.
 
 # 2023/11/21
 * Resonant states of deformed nuclei in the complex scaling method. [slides]({{ site.baseurl }}/downloads/20231121.pdf)
