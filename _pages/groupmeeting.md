@@ -9,6 +9,18 @@ permalink: /groupmeeting/
 # Group Meeting
 # Next group meeting will be held on 2023/10/31.
 
+# 2023/11/21
+* Resonant states of deformed nuclei in the complex scaling method. [slides]({{ site.baseurl }}/downloads/20231121.pdf)
+* Observables calculation. [slides]({{ site.baseurl }}/downloads/add tho.pdf)
+
+# 2023/11/14
+* Observables calculation. [slides]({{ site.baseurl }}/downloads/cross section5.pdf)
+
+# 2023/10/31
+* Alpha Decay and Resonance. [slides]({{ site.baseurl }}/downloads/20231031.pdf)
+* Observables calculation. [slides]({{ site.baseurl }}/downloads/cross section4.pdf)
+* Analysis of the 16C(d, p)17Creaction from microscopic 17C wave functions. [slides]({{ site.baseurl }}/downloads/mircoscopic.pdf)
+
 # 2023/10.24
 * The Theory of Alpha Decay. [slides]({{ site.baseurl }}/downloads/20231024.pdf)
 * Observables calculation. [slides]({{ site.baseurl }}/downloads/cross section3.pdf)
