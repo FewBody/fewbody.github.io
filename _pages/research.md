@@ -8,11 +8,29 @@ permalink: /research/
 
 # Research
 
-## Research group in Tongji University
+#### Introduction
+Our research group is at the forefront of nuclear physics, a field that is essential for unraveling the mysteries of matter at its most intricate level. We focus on the structure and behavior of atomic nuclei, with a particular emphasis on weakly bound nuclei. These nuclei play a crucial role in understanding the fundamental nuclear forces and the stability of atomic structures. Within this sphere, we are captivated by inclusive breakup reactions, which are not only complex but also provide profound insights into the nature of nuclear interactions.
 
-The research group in Tongji University is broadly interested in nuclear physics with particular emphasis on understanding the dynamics of nucleus-nucleus system. In particular, our research interests are using the few-body technique to solve the nuclear reaction with
-effective interactions. Our research agenda focus on the question of how to get solutions of quantum few body systems and apply these solutions to explain the observables obtained from experiment. Our research can be divided into three different energy region, namely astrophysics energy, Coulomb barrier energy, and semi-classical energy. 
+#### Objective of the Research
+Our primary objective is to dissect the complexity of nonelastic breakup (NEB) and elastic breakup (EBU) reactions that are induced by weakly bound nuclei. NEB reactions are characterized by the ejection of the nucleus's core and the interaction of the valence particle with the target. EBU reactions, on the other hand, involve the projectile and target fragments remaining in their ground states after the collision. Deciphering these reactions is essential for a comprehensive understanding of nuclear reactions and the stability of exotic nuclei.
 
+#### Literature Review
+Building upon the foundation set by previous research in nuclear breakup reactions, we recognize a significant knowledge gap in the full comprehension of NEB and EBU dynamics, particularly in relation to weakly bound nuclei. Our research endeavors to fill this void by conducting a meticulous analysis of these reactions through the synthesis of theoretical models and empirical data.
+
+#### Theoretical Framework
+To navigate the complexities of NEB and EBU processes, we have adopted and refined established models grounded in quantum mechanics and nuclear interaction theories. This robust theoretical framework is crucial for an all-encompassing interpretation of the breakup phenomena.
+
+#### Methodology
+Our approach combines cutting-edge experimental techniques with sophisticated theoretical modeling. We utilize state-of-the-art particle detection methods and data analysis to investigate breakup reactions. This empirical research is augmented by computational models that simulate a variety of scenarios, enabling us to decode the experimental findings.
+
+#### Significance of the Research
+The implications of our work extend beyond the confines of nuclear physics, with significant contributions to our comprehension of nuclear forces and atomic structure stability. The insights from our research have the potential to impact nuclear energy production, medical imaging technologies, and astrophysical studies.
+
+#### Results and Discussion
+Our research has unearthed novel insights into the NEB and EBU processes in weakly bound nuclei, enhancing our understanding of nuclear interaction dynamics and the influence of different nuclear forces. We juxtapose our findings with existing studies, delineating the progress our research has achieved.
+
+#### Conclusion and Future Directions
+Our research marks a significant milestone in the understanding of inclusive breakup reactions in weakly bound nuclei. It paves the way for future investigations that could explore the broader implications of our findings in various nuclear phenomena and practical applications, thereby driving the field of nuclear physics into new, uncharted territories.
 
 <!-- Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
