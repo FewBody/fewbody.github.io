@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Collaboration Members
+# Group Members
 
 ## Faculty
 {% assign number_printed = 0 %}
