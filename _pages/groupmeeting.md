@@ -7,7 +7,18 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will be held on 2023/11/28.
+# Next group meeting will be held on 2023/12/19.
+
+# 2023/12/12
+* Comparative study of three body models for continuum states. [slides]({{ site.baseurl }}/downloads/2023.12.12.pdf)
+* Break reaction in 9C+208Pb. [slides]({{ site.baseurl }}/downloads/lanzhou.pdf)
+
+
+# 2023/11/28
+* COMPLEX-SCALED CDCC METHOD FOR NUCLEAR BREAKUP REACTIONS. [slides]({{ site.baseurl }}/downloads/CSCDCC.pdf) 
+* Intial wave function. [slides]({{ site.baseurl }}/downloads/initial wavefunction3.pdf)
+
+
 
 # 2023/11/21
 * Resonant states of deformed nuclei in the complex scaling method. [slides]({{ site.baseurl }}/downloads/20231121.pdf)
