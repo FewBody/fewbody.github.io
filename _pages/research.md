@@ -6,31 +6,23 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Research Statement 
 
-#### Introduction
-Our research group is at the forefront of nuclear physics, a field that is essential for unraveling the mysteries of matter at its most intricate level. We focus on the structure and behavior of atomic nuclei, with a particular emphasis on weakly bound nuclei. These nuclei play a crucial role in understanding the fundamental nuclear forces and the stability of atomic structures. Within this sphere, we are captivated by inclusive breakup reactions, which are not only complex but also provide profound insights into the nature of nuclear interactions.
+Our research group is at the forefront of nuclear physics, a field that is essential for unraveling the mysteries of matter at its most intricate level. We focus on using the quantum few-body model to study the structure and reaction of atomic nuclei, with a particular emphasis on weakly bound nuclei. These nuclei play a crucial role in understanding the fundamental nuclear forces and the stability of atomic structures. Within this sphere, we are captivated by breakup reactions, which are not only complex but also provide profound insights into the nature of nuclear interactions.
 
-#### Objective of the Research
-Our primary objective is to dissect the complexity of nonelastic breakup (NEB) and elastic breakup (EBU) reactions that are induced by weakly bound nuclei. NEB reactions are characterized by the ejection of the nucleus's core and the interaction of the valence particle with the target. EBU reactions, on the other hand, involve the projectile and target fragments remaining in their ground states after the collision. Deciphering these reactions is essential for a comprehensive understanding of nuclear reactions and the stability of exotic nuclei.
+In the past, our group worked on the nuclear reaction process by using a quantum three-body model, by assuming the projectile is weakly bound and has a two-body structure. We were doing reactions on the inclusive breakup, in which only one of the fragments of the projectile after collision is detected, by using the Ichimura-Austern-Vincent (IAV) model developed in the 1980s. By using this model, we have successfully studied fusion processes and the incomplete fusion process.
 
-#### Literature Review
-Building upon the foundation set by previous research in nuclear breakup reactions, we recognize a significant knowledge gap in the full comprehension of NEB and EBU dynamics, particularly in relation to weakly bound nuclei. Our research endeavors to fill this void by conducting a meticulous analysis of these reactions through the synthesis of theoretical models and empirical data.
+In the future, the research of our group will mainly focus on the following aspects:
 
-#### Theoretical Framework
-To navigate the complexities of NEB and EBU processes, we have adopted and refined established models grounded in quantum mechanics and nuclear interaction theories. This robust theoretical framework is crucial for an all-encompassing interpretation of the breakup phenomena.
+* **Extending the CDCC Method with Ab-initio Structure Calculations**: In the Continuum Discretized Coupled Channels (CDCC) method, we are taking projectiles, such as 6Li as an alpha + deuteron structure, by using a simple Woods-Saxon potential to bind these two clusters. In this research, we will try to make a full ab-initio study of the internal structure of the alpha and deuteron, by considering all the internal degrees of freedom of these nuclei, we can make a realistic description of the reaction.
 
-#### Methodology
-Our approach combines cutting-edge experimental techniques with sophisticated theoretical modeling. We utilize state-of-the-art particle detection methods and data analysis to investigate breakup reactions. This empirical research is augmented by computational models that simulate a variety of scenarios, enabling us to decode the experimental findings.
+* **Dynamics of Four-Body Systems**: Specifically, we are interested in four-body breakup processes. Given the known challenges in handling three charged particles from Faddeev's perspective, we are keen to tackle a four-body breakup calculation for four charged particles. The approach would involve a Distorted Wave Born Approximation (DWBA) framework, treating the projectile-target wave function in a distorted wave and considering the projectile as having a three-body structure.
 
-#### Significance of the Research
-The implications of our work extend beyond the confines of nuclear physics, with significant contributions to our comprehension of nuclear forces and atomic structure stability. The insights from our research have the potential to impact nuclear energy production, medical imaging technologies, and astrophysical studies.
+* **Study of Resonance Decay Processes**: We will start with two-body decay scenarios, such as alpha decay, conceptualizing the alpha and daughter nuclei within a simplistic two-body framework. Our journey will extend to more complex systems, like three-body decays (like two proton decay), and potentially even five-body decays (alpha decay in a 5-body model).
 
-#### Results and Discussion
-Our research has unearthed novel insights into the NEB and EBU processes in weakly bound nuclei, enhancing our understanding of nuclear interaction dynamics and the influence of different nuclear forces. We juxtapose our findings with existing studies, delineating the progress our research has achieved.
+* **Develop a Successful Surrogate Reaction Model**: A surrogate reaction is a type of indirect method used to study nuclear reactions that are difficult to measure directly. This technique is particularly useful for reactions involving unstable, radioactive nuclei that cannot be used as targets in a laboratory setting, or for reactions that require conditions that are hard to achieve experimentally, such as very high temperatures or neutron fluxes. The study of the inclusive breakup reaction by using the IAV model proposed a potential way to fully deal with the surrogate reaction. We will continue on this research trajectory.
 
-#### Conclusion and Future Directions
-Our research marks a significant milestone in the understanding of inclusive breakup reactions in weakly bound nuclei. It paves the way for future investigations that could explore the broader implications of our findings in various nuclear phenomena and practical applications, thereby driving the field of nuclear physics into new, uncharted territories.
+Our commitment to pushing the boundaries of nuclear physics is unwavering. We aim to deepen our understanding of nuclear matter through innovative theoretical approaches and sophisticated modeling, contributing to the broader field of nuclear science and its applications. With a blend of established methods and cutting-edge techniques, our group is poised to make significant advances in the study of nuclear dynamics.
 
 <!-- Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
