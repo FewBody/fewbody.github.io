@@ -7,7 +7,13 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will be held on 2023/12/19.
+# Next group meeting will be held on 2023/1/2.
+
+# 2023/12/26
+* Intial wave function. [slides]({{ site.baseurl }}/downloads/initial wavefunction5.pdf)
+
+# 2023/12/19
+* Intial wave function. [slides]({{ site.baseurl }}/downloads/initial wavefunction4.pdf)
 
 # 2023/12/12
 * Comparative study of three body models for continuum states. [slides]({{ site.baseurl }}/downloads/2023.12.12.pdf)
