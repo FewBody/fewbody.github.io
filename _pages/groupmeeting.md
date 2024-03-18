@@ -7,7 +7,16 @@ permalink: /groupmeeting/
 ---
 
 # Group Meeting
-# Next group meeting will be held on 2023/1/2.
+# Next group meeting will be held on 2023/3/19.
+
+# 2024/3/12
+* Intial wave function. [slides]({{ site.baseurl }}/downloads/initial wavefunction7.pdf)
+* Bayes analysis. [slides]({{ site.baseurl }}/downloads/2024.3.12.pdf)
+
+
+# 2024/1/2
+* Intial wave function. [slides]({{ site.baseurl }}/downloads/initial wavefunction6.pdf)
+
 
 # 2023/12/26
 * Intial wave function. [slides]({{ site.baseurl }}/downloads/initial wavefunction5.pdf)
