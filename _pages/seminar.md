@@ -7,6 +7,9 @@ permalink: /seminar/
 ---
 
 # Seminars
+* 2024.04.24, Towards a microscopic description for low-energy induced fission, Kouichi Hagino, Professor, Kyoto University, [slides]({{ site.baseurl }}/downloads/tongji2024.pdf)
+* 2024.04.11, Four- and five-body effects in nucleus-nucleus scattering, Pierre Descouvemont, Professor, Université Libre de Bruxelles, [slides]({{ site.baseurl }}/downloads/tongji2024PD.pdf)
+* 2024.04.11, Reactions of weakly-bound nuclei at near-barrier energies, 林承键, 研究员, 院子能科学研究院, [slides]({{ site.baseurl }}/downloads/同济报告-林承键.ppt)
 * 2023.11.09, The Hyperspherical Harmonic basis for ab-initio nuclear physics, Alex Gnech, Postdoc, ECT*, [slides]({{ site.baseurl }}/downloads/Tongji_pres.pdf)
 * 2023.10.25, Modeling neutrinoless double-beta decay with operators from chiral effective field theory, 尧江明, 教授, 中山大学, [slides]({{ site.baseurl }}/downloads/ChiralEFT_for_NLDBD_Tongji.pdf)
 * 2023.09.07, 基于(p, pN)单核子移除反应的原子核结构研究, 孙叶磊, 副教授, 北京航空航天大学
