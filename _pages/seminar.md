@@ -7,6 +7,7 @@ permalink: /seminar/
 ---
 
 # Seminars
+* 2024.05.08, Nuclear theory for exotic nuclei: selected topics, Kim Youngman, Researcher, Center for Exotic Nuclear Studies, Institute for Basic Science in Daejeon, [slides]({{ site.baseurl }}/downloads/Tongji-U_YKim.pdf)
 * 2024.05.06, Clustering phenomenon from nuclear physics perspective, Marek Płoszajczak, Researcher, GANIL, [slides]({{ site.baseurl }}/downloads/Tongji-marek.pdf)
 * 2024.04.24, Towards a microscopic description for low-energy induced fission, Kouichi Hagino, Professor, Kyoto University, [slides]({{ site.baseurl }}/downloads/tongji2024.pdf)
 * 2024.04.11, Four- and five-body effects in nucleus-nucleus scattering, Pierre Descouvemont, Professor, Université Libre de Bruxelles, [slides]({{ site.baseurl }}/downloads/tongji2024PD.pdf)
