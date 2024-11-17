@@ -7,6 +7,7 @@ permalink: /seminar/
 ---
 
 # Seminars
+* 2024.11.15, Introduction to the Science of Superheavy, Nov. 15, 2024, Witold Nazarewicz, Professor, FRIB/MSU,  [slides]({{ site.baseurl }}/downloads/SHE-Tongji-Nazarewicz.pptx)
 * 2024.07.22, 北京航空航天大学医学物理简介, 张高龙, 教授, 北京航空航天大学, [slides]({{ site.baseurl }}/downloads/北京航空航天大学医学物理-同济大学报告.pdf), [slides]({{ site.baseurl }}/downloads/组里研究概况-同济大学.pdf)
 * 2024.07.08, 不稳定核的精密激光核谱学研究：进展与展望, 杨晓菲, 教授, 北京大学, [slides]({{ site.baseurl }}/downloads/不稳定核的精密激光核谱-进展与展望-杨晓菲.pdf)
 * 2024.05.08, Nuclear theory for exotic nuclei: selected topics, Kim Youngman, Researcher, Center for Exotic Nuclear Studies, Institute for Basic Science in Daejeon, [slides]({{ site.baseurl }}/downloads/Tongji-U_YKim.pdf)
